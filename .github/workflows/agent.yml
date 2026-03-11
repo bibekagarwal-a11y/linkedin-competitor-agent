@@ -27,8 +27,11 @@ jobs:
 - name: Collect LinkedIn signals
   run: python scripts/collect_linkedin.py
 
-      - name: Generate weekly intelligence report
-        run: python scripts/summarize_weekly.py
+- name: Collect blog signals
+  run: python scripts/collect_blog_signals.py
+
+- name: Generate weekly intelligence report
+  run: python scripts/generate_weekly_brief.py
 
       - name: Commit updates
         run: |
