@@ -35,11 +35,18 @@ with open("competitors.csv") as f:
 try:
     with open("posts.json") as f:
         existing_posts = json.load(f)
+
+        # Ensure list of dicts
+        if not isinstance(existing_posts, list):
+            existing_posts = []
+
+        existing_posts = [p for p in existing_posts if isinstance(p, dict)]
+
 except:
     existing_posts = []
 
-# Safe duplicate detection
-existing_urls = {p.get("url") for p in existing_posts if "url" in p}
+# Duplicate detection
+existing_urls = {p["url"] for p in existing_posts if "url" in p}
 
 new_posts = [p for p in posts if p["url"] not in existing_urls]
 
