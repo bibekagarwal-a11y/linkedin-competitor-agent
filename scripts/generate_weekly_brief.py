@@ -18,6 +18,7 @@ energy_keywords = [
 "trading platform"
 ]
 
+
 def score(text):
     text = text.lower()
     return sum(1 for k in energy_keywords if k in text)
