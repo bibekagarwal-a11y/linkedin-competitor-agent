@@ -38,6 +38,9 @@ jobs:
 
       - name: Generate monthly summary
         run: python scripts/summarize_monthly.py
+    - name: Analyze competitor signals
+      run: python scripts/analyze_signals.py
+        
 
       - name: Commit updates
         run: |
