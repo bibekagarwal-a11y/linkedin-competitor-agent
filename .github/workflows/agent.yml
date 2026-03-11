@@ -42,6 +42,9 @@ jobs:
       - name: Analyze competitor signals
         run: python scripts/analyze_signals.py
 
+        - name: Collect competitor news
+  run: python scripts/collect_news.py
+
       - name: Commit updates
         run: |
           git config --global user.name "github-actions"
