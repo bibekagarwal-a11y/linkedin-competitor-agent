@@ -4,23 +4,19 @@ import datetime
 today = datetime.date.today()
 month = today - datetime.timedelta(days=30)
 
-# Load posts
 with open("posts.json") as f:
     posts = json.load(f)
 
-# Filter last 30 days
 monthly_posts = [p for p in posts if p["date"] >= str(month)]
 
-summary = f"# Monthly Competitor Summary ({today})\n\n"
+summary = f"# Monthly Competitor Activity ({today})\n\n"
 
 if not monthly_posts:
-    summary += "No competitor activity detected in the last 30 days.\n"
+    summary += "No LinkedIn activity detected.\n"
 
 else:
     for p in monthly_posts:
-        summary += f"- [{p['company']}]({p.get('company_url','')}) — {p['text']}  \n"
-        summary += f"  👉 [View Post]({p['url']})\n\n"
+        summary += f"{p['company']} — {p['text']}\n\n"
 
-# Save report
 with open("monthly_summary.md", "w") as f:
     f.write(summary)
