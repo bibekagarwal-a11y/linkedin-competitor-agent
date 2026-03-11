@@ -2,6 +2,7 @@ import feedparser
 import json
 import datetime
 import csv
+from urllib.parse import quote
 
 today = datetime.date.today()
 
@@ -18,7 +19,9 @@ with open("competitors.csv") as f:
 
         print(f"Checking news for {company}")
 
-        feed_url = f"https://news.google.com/rss/search?q={query}+energy+trading"
+        encoded_query = quote(query)
+
+        feed_url = f"https://news.google.com/rss/search?q={encoded_query}+energy+trading"
 
         data = feedparser.parse(feed_url)
 
