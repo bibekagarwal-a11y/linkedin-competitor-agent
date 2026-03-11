@@ -12,7 +12,8 @@ weekly_posts = [p for p in posts if p["date"] >= str(week)]
 summary = f"# Weekly Competitor Summary ({today})\n\n"
 
 for p in weekly_posts:
-    summary += f"- {p['company']}: {p['text']}\n"
+    summary += f"- **{p['company']}** — {p['text']}  \n"
+    summary += f"  🔗 {p['url']}\n\n"
 
 with open("weekly_summary.md","w") as f:
     f.write(summary)
