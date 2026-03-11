@@ -17,8 +17,8 @@ if not monthly_posts:
     summary += "No competitor activity detected in the last 30 days.\n"
 else:
     for p in monthly_posts:
-        summary += f"- **{p['company']}** — {p['text']}  \n"
-        summary += f"  🔗 {p['url']}\n\n"
+summary += f"- [{p['company']}](https://www.linkedin.com/company/{p['company'].lower()}/) — {p['text']}  \n"
+summary += f"  👉 [View LinkedIn Post]({p['url']})\n\n"
 
 # Save report
 with open("monthly_summary.md", "w") as f:
