@@ -14,7 +14,15 @@ with open("competitors.csv") as f:
 
         company = row["company"]
 
-        feed = f"https://news.google.com/rss/search?q={company}"
+energy_sites = [
+"montelnews.com",
+"energy-storage.news",
+"powerengineeringint.com",
+"utilitydive.com",
+"rechargenews.com",
+"energyvoice.com",
+"renewableenergyworld.com"
+]
 
         data = feedparser.parse(feed)
 
