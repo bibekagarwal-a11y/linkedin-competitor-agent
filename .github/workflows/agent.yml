@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -27,8 +27,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run collector
+      - name: Collect LinkedIn signals
         run: python scripts/collect_posts.py
+
+      - name: Collect competitor news
+        run: python scripts/collect_news.py
 
       - name: Generate daily summary
         run: python scripts/summarize_daily.py
@@ -38,12 +41,6 @@ jobs:
 
       - name: Generate monthly summary
         run: python scripts/summarize_monthly.py
-
-      - name: Analyze competitor signals
-        run: python scripts/analyze_signals.py
-
-        - name: Collect competitor news
-  run: python scripts/collect_news.py
 
       - name: Commit updates
         run: |
