@@ -6,26 +6,49 @@ today = datetime.date.today()
 week_start = today - datetime.timedelta(days=7)
 
 energy_keywords = [
-"energy trading",
-"power trading",
-"electricity market",
-"forecasting",
-"portfolio optimisation",
-"intraday trading",
-"balancing market",
-"renewables",
-"energy analytics",
-"trading platform"
+    "trading",
+    "forecast",
+    "forecasting",
+    "power",
+    "energy",
+    "intraday",
+    "day-ahead",
+    "portfolio",
+    "risk",
+    "analytics",
+    "platform",
+    "software",
+    "integration",
+    "renewable",
+    "battery"
 ]
-
-
-def score(text):
-    text = text.lower()
-    return sum(1 for k in energy_keywords if k in text)
 
 def relevant(text):
     text = text.lower()
     return any(k in text for k in energy_keywords)
+
+def summarize(texts):
+
+    texts = list(set(texts))
+
+    combined = " ".join(texts)
+
+    combined = combined.lower()
+
+    if "forecast" in combined:
+        return "Expanding energy forecasting capabilities"
+
+    if "trading" in combined:
+        return "Promoting automated energy trading capabilities"
+
+    if "integration" in combined:
+        return "Improving energy market system integrations"
+
+    if "renewable" in combined:
+        return "Focusing on renewable portfolio optimisation"
+
+    return texts[0]
+
 
 try:
     with open("signals.json") as f:
@@ -33,7 +56,8 @@ try:
 except:
     signals = []
 
-weekly_signals = []
+
+weekly = []
 
 for s in signals:
 
@@ -43,15 +67,15 @@ for s in signals:
         continue
 
     if week_start <= date <= today:
-
         if relevant(s["text"]):
+            weekly.append(s)
 
-            weekly_signals.append(s)
 
 grouped = defaultdict(list)
 
-for s in weekly_signals:
+for s in weekly:
     grouped[s["company"]].append(s["text"])
+
 
 report = "# Competitor Intelligence\n"
 report += f"Week of {today}\n\n"
@@ -65,21 +89,10 @@ else:
 
         report += f"## {company}\n\n"
 
-        unique = []
+        insight = summarize(texts)
 
-        for t in texts:
+        report += f"• {insight}\n\n"
 
-            short = t.strip()
 
-            if short not in unique and len(short) > 40:
-
-                unique.append(short)
-
-        for t in unique[:5]:
-
-            report += f"• {t}\n"
-
-        report += "\n"
-
-with open("weekly_summary.md","w") as f:
+with open("weekly_summary.md", "w") as f:
     f.write(report)
