@@ -1,29 +1,38 @@
+import feedparser
+import pandas as pd
 import json
 import datetime
-import random
+
+competitors = {
+    "Volue": "https://www.linkedin.com/company/volue/posts/",
+    "GMSL": "https://www.linkedin.com/company/gmsl/posts/"
+}
 
 today = datetime.date.today()
 
-example_posts = [
-    "Launching a new energy trading platform",
-    "Announcing partnership with power exchange",
-    "Hiring engineers for algorithmic trading",
-    "New forecasting tool for renewable markets"
-]
+posts = []
 
-post = {
-    "company": "CompetitorA",
-    "date": str(today),
-    "text": random.choice(example_posts)
-}
+for company, url in competitors.items():
+
+    feed = feedparser.parse(url)
+
+    for entry in feed.entries[:5]:
+
+        post = {
+            "company": company,
+            "date": str(today),
+            "text": entry.title
+        }
+
+        posts.append(post)
 
 try:
     with open("posts.json") as f:
-        data = json.load(f)
+        existing = json.load(f)
 except:
-    data = []
+    existing = []
 
-data.append(post)
+existing.extend(posts)
 
 with open("posts.json","w") as f:
-    json.dump(data,f,indent=2)
+    json.dump(existing,f,indent=2)
