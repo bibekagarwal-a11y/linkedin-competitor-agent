@@ -6,10 +6,22 @@ today = datetime.date.today()
 week_start = today - datetime.timedelta(days=7)
 
 relevant_keywords = [
-    "trading","forecast","forecasting","energy","power",
-    "risk","algorithmic","intraday","day-ahead","battery",
-    "renewable","portfolio","analytics","platform",
-    "software","solution","launch","partnership","integration"
+    "trading",
+    "forecast",
+    "forecasting",
+    "power market",
+    "energy market",
+    "intraday",
+    "day-ahead",
+    "algorithmic",
+    "portfolio",
+    "risk",
+    "analytics",
+    "platform",
+    "software",
+    "integration",
+    "automation",
+    "renewable"
 ]
 
 def relevant(text):
@@ -26,9 +38,7 @@ for p in posts:
     post_date = datetime.date.fromisoformat(p["date"])
 
     if week_start <= post_date <= today:
-
         if relevant(p["text"]):
-
             weekly_posts.append(p)
 
 grouped = defaultdict(list)
@@ -39,7 +49,7 @@ for p in weekly_posts:
 summary = "# Competitor Intelligence – Last 7 Days\n\n"
 
 if not grouped:
-    summary += "No relevant competitor activity.\n"
+    summary += "No relevant competitor activity detected.\n"
 
 else:
 
@@ -47,12 +57,12 @@ else:
 
         summary += f"## {company}\n\n"
 
-        unique_points = list(set(texts))
+        unique = list(set(texts))
 
-        for t in unique_points[:5]:
+        for t in unique[:5]:
             summary += f"• {t}\n"
 
         summary += "\n"
 
-with open("weekly_summary.md", "w") as f:
+with open("weekly_summary.md","w") as f:
     f.write(summary)
