@@ -6,23 +6,21 @@ today = datetime.date.today()
 week_start = today - datetime.timedelta(days=7)
 
 energy_keywords = [
-    "trading",
-    "forecast",
-    "forecasting",
-    "power",
-    "energy",
-    "intraday",
-    "day-ahead",
-    "portfolio",
-    "risk",
-    "analytics",
-    "platform",
-    "software",
-    "integration",
-    "renewable",
-    "battery",
-    "flexibility"
+"energy trading",
+"power trading",
+"electricity market",
+"forecasting",
+"portfolio optimisation",
+"intraday trading",
+"balancing market",
+"renewables",
+"energy analytics",
+"trading platform"
 ]
+
+def score(text):
+    text = text.lower()
+    return sum(1 for k in energy_keywords if k in text)
 
 def relevant(text):
     text = text.lower()
