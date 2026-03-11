@@ -1,11 +1,5 @@
 # Daily Competitor Summary (2026-03-11)
 
-- [Volue]() — Volue launches new energy forecasting platform  
-  👉 [View Post](https://www.linkedin.com/company/volue/)
-
-- [GMSL]() — GMSL announces partnership with energy market operator  
-  👉 [View Post](https://www.linkedin.com/company/gmsl/)
-
 - [Volue](https://www.linkedin.com/company/volue/) — LinkedIn post  
   👉 [View Post](https://www.linkedin.com/posts/volue_gas-price-scenarios-and-impact-activity-7437468582118281216-Cx9l)
 
