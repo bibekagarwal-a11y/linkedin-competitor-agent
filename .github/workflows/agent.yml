@@ -29,7 +29,8 @@ jobs:
         run: python scripts/collect_linkedin.py
 
       - name: Collect blog signals
-        run: python scripts/collect_blog_signals.py
+- run: python scripts/collect_blog_posts.py
+- run: python scripts/collect_press_releases.py
 
       - name: Generate weekly intelligence report
         run: python scripts/generate_weekly_brief.py
