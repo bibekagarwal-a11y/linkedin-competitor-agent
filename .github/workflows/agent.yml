@@ -23,9 +23,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-      - name: Collect LinkedIn signals
-        run: python scripts/collect_posts.py
+        
+- name: Collect LinkedIn signals
+  run: python scripts/collect_linkedin.py
 
       - name: Generate weekly intelligence report
         run: python scripts/summarize_weekly.py
