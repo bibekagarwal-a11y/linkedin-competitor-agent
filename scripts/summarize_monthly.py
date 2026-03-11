@@ -15,10 +15,11 @@ summary = f"# Monthly Competitor Summary ({today})\n\n"
 
 if not monthly_posts:
     summary += "No competitor activity detected in the last 30 days.\n"
+
 else:
     for p in monthly_posts:
-summary += f"- [{p['company']}](https://www.linkedin.com/company/{p['company'].lower()}/) — {p['text']}  \n"
-summary += f"  👉 [View LinkedIn Post]({p['url']})\n\n"
+        summary += f"- [{p['company']}]({p.get('company_url','')}) — {p['text']}  \n"
+        summary += f"  👉 [View Post]({p['url']})\n\n"
 
 # Save report
 with open("monthly_summary.md", "w") as f:
