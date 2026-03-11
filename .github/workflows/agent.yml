@@ -23,16 +23,18 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser requests beautifulsoup4
+          pip install requests beautifulsoup4 feedparser
 
       - name: Collect LinkedIn signals
         run: python scripts/collect_linkedin.py
 
-      - name: Collect blog signals
-- run: python scripts/collect_blog_posts.py
-- run: python scripts/collect_press_releases.py
+      - name: Collect blog posts
+        run: python scripts/collect_blog_posts.py
 
-      - name: Generate weekly intelligence report
+      - name: Collect press releases
+        run: python scripts/collect_press_releases.py
+
+      - name: Generate weekly report
         run: python scripts/generate_weekly_brief.py
 
       - name: Commit updates
