@@ -4,6 +4,7 @@ import datetime
 import csv
 
 today = datetime.date.today()
+cutoff = today - datetime.timedelta(days=30)
 
 posts = []
 
@@ -22,12 +23,20 @@ with open("competitors.csv") as f:
 
         feed = feedparser.parse(feed_url)
 
-        for entry in feed.entries[:5]:
+        for entry in feed.entries:
+
+            try:
+                published = datetime.datetime(*entry.published_parsed[:6]).date()
+            except:
+                continue
+
+            if published < cutoff:
+                continue
 
             post = {
                 "company": company,
                 "company_url": company_url,
-                "date": str(today),
+                "date": str(published),
                 "text": entry.title,
                 "url": entry.link,
                 "source": "news"
@@ -36,6 +45,7 @@ with open("competitors.csv") as f:
             posts.append(post)
 
 
+# Load existing posts
 try:
     with open("posts.json") as f:
         existing = json.load(f)
@@ -51,4 +61,4 @@ all_posts = existing + new_posts
 with open("posts.json", "w") as f:
     json.dump(all_posts, f, indent=2)
 
-print(f"Added {len(new_posts)} news signals")
+print(f"Added {len(new_posts)} recent news signals")
