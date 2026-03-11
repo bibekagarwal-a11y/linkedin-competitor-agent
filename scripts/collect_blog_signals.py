@@ -8,40 +8,46 @@ today = datetime.date.today()
 signals = []
 
 with open("competitors.csv") as f:
+
     reader = csv.DictReader(f)
 
     for row in reader:
 
         company = row["company"]
+        query = row["query"]
 
-energy_sites = [
-"montelnews.com",
-"energy-storage.news",
-"powerengineeringint.com",
-"utilitydive.com",
-"rechargenews.com",
-"energyvoice.com",
-"renewableenergyworld.com"
-]
+        print(f"Checking news for {company}")
 
-        data = feedparser.parse(feed)
+        feed_url = f"https://news.google.com/rss/search?q={query}+energy+trading"
 
-        for e in data.entries[:5]:
+        data = feedparser.parse(feed_url)
+
+        for entry in data.entries[:5]:
 
             signals.append({
                 "company": company,
                 "date": str(today),
-                "text": e.title,
+                "text": entry.title,
                 "source": "news"
             })
 
+
 try:
+
     with open("signals.json") as f:
         existing = json.load(f)
+
 except:
+
     existing = []
+
 
 all_signals = existing + signals
 
-with open("signals.json","w") as f:
-    json.dump(all_signals,f,indent=2)
+
+with open("signals.json", "w") as f:
+
+    json.dump(all_signals, f, indent=2)
+
+
+print(f"Added {len(signals)} signals")
