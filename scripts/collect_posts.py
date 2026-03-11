@@ -37,12 +37,13 @@ with open("competitors.csv") as f:
 
                 if href and "linkedin.com/posts" in href:
 
-                    post = {
-                        "company": company,
-                        "date": str(today),
-                        "text": link.text.strip(),
-                        "url": href
-                    }
+                    post = post = {
+    "company": company,
+    "company_url": url,
+    "date": str(today),
+    "text": link.text.strip(),
+    "url": href
+}
 
                     if post["text"]:
                         posts.append(post)
