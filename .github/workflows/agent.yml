@@ -16,7 +16,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.11
+          python-version: "3.11"
 
       - name: Run collector
         run: python scripts/collect_posts.py
@@ -32,5 +32,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "update summaries"
+          git commit -m "update summaries" || echo "no changes"
           git push
