@@ -1,4 +1,4 @@
-name: Competitor Monitoring Agent
+name: Competitor Intelligence
 
 on:
   schedule:
@@ -22,16 +22,17 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
-        
-- name: Collect LinkedIn signals
-  run: python scripts/collect_linkedin.py
+        run: |
+          pip install feedparser requests beautifulsoup4
 
-- name: Collect blog signals
-  run: python scripts/collect_blog_signals.py
+      - name: Collect LinkedIn signals
+        run: python scripts/collect_linkedin.py
 
-- name: Generate weekly intelligence report
-  run: python scripts/generate_weekly_brief.py
+      - name: Collect blog signals
+        run: python scripts/collect_blog_signals.py
+
+      - name: Generate weekly intelligence report
+        run: python scripts/generate_weekly_brief.py
 
       - name: Commit updates
         run: |
