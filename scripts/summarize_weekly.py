@@ -1,26 +1,36 @@
 import json
 import datetime
+from collections import defaultdict
 
 today = datetime.date.today()
 week = today - datetime.timedelta(days=7)
 
-# Load posts
 with open("posts.json") as f:
     posts = json.load(f)
 
-# Filter last 7 days
 weekly_posts = [p for p in posts if p["date"] >= str(week)]
 
 summary = f"# Weekly Competitor Summary ({today})\n\n"
 
-if not weekly_posts:
-    summary += "No competitor activity detected in the last 7 days.\n"
+grouped = defaultdict(list)
+
+for p in weekly_posts:
+    key = (p["company"], p["text"])
+    grouped[key].append(p["url"])
+
+if not grouped:
+    summary += "No competitor activity detected.\n"
 
 else:
-    for p in weekly_posts:
-        summary += f"- [{p['company']}]({p.get('company_url','')}) — {p['text']}  \n"
-        summary += f"  👉 [View Post]({p['url']})\n\n"
+    for (company, text), links in grouped.items():
 
-# Save report
+        summary += f"**{company} — {text}**\n"
+
+        for link in links:
+            summary += f"- {link}\n"
+
+        summary += "\n"
+
+
 with open("weekly_summary.md", "w") as f:
     f.write(summary)
