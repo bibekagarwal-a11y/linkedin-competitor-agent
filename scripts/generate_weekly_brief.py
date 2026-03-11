@@ -27,35 +27,11 @@ def relevant(text):
     text = text.lower()
     return any(k in text for k in energy_keywords)
 
-def summarize(texts):
-
-    texts = list(set(texts))
-
-    combined = " ".join(texts)
-
-    combined = combined.lower()
-
-    if "forecast" in combined:
-        return "Expanding energy forecasting capabilities"
-
-    if "trading" in combined:
-        return "Promoting automated energy trading capabilities"
-
-    if "integration" in combined:
-        return "Improving energy market system integrations"
-
-    if "renewable" in combined:
-        return "Focusing on renewable portfolio optimisation"
-
-    return texts[0]
-
-
 try:
     with open("signals.json") as f:
         signals = json.load(f)
 except:
     signals = []
-
 
 weekly = []
 
@@ -70,14 +46,12 @@ for s in signals:
         if relevant(s["text"]):
             weekly.append(s)
 
-
 grouped = defaultdict(list)
 
 for s in weekly:
     grouped[s["company"]].append(s["text"])
 
-
-report = "# Competitor Intelligence\n"
+report = "# Energy Trading Software – Competitor Intelligence\n"
 report += f"Week of {today}\n\n"
 
 if not grouped:
@@ -87,12 +61,18 @@ else:
 
     for company, texts in grouped.items():
 
-        report += f"## {company}\n\n"
+        report += f"## {company}\n"
 
-        insight = summarize(texts)
+        unique = []
 
-        report += f"• {insight}\n\n"
+        for t in texts:
+            if t not in unique:
+                unique.append(t)
 
+        for t in unique[:5]:
+            report += f"• {t}\n"
 
-with open("weekly_summary.md", "w") as f:
+        report += "\n"
+
+with open("weekly_summary.md","w") as f:
     f.write(report)
