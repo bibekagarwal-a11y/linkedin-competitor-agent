@@ -7,7 +7,7 @@ today = datetime.date.today()
 
 posts = []
 
-# Read competitors from CSV
+# Read competitors
 with open("competitors.csv") as f:
     reader = csv.DictReader(f)
 
@@ -38,15 +38,13 @@ try:
 except:
     existing_posts = []
 
-# Prevent duplicates
-existing_urls = {p["url"] for p in existing_posts}
+# Safe duplicate detection
+existing_urls = {p.get("url") for p in existing_posts if "url" in p}
 
 new_posts = [p for p in posts if p["url"] not in existing_urls]
 
-# Combine
 all_posts = existing_posts + new_posts
 
-# Save updated database
 with open("posts.json", "w") as f:
     json.dump(all_posts, f, indent=2)
 
