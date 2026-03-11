@@ -1,38 +1,53 @@
 import feedparser
-import pandas as pd
+import csv
 import json
 import datetime
-
-competitors = {
-    "Volue": "https://www.linkedin.com/company/volue/posts/",
-    "GMSL": "https://www.linkedin.com/company/gmsl/posts/"
-}
 
 today = datetime.date.today()
 
 posts = []
 
-for company, url in competitors.items():
+# Read competitors from CSV
+with open("competitors.csv") as f:
+    reader = csv.DictReader(f)
 
-    feed = feedparser.parse(url)
+    for row in reader:
 
-    for entry in feed.entries[:5]:
+        company = row["company"]
+        url = row["linkedin"]
 
-        post = {
-            "company": company,
-            "date": str(today),
-            "text": entry.title
-        }
+        print(f"Checking posts for {company}")
 
-        posts.append(post)
+        feed = feedparser.parse(url)
 
+        for entry in feed.entries[:5]:
+
+            post = {
+                "company": company,
+                "date": str(today),
+                "text": entry.title,
+                "url": entry.link
+            }
+
+            posts.append(post)
+
+# Load existing posts
 try:
     with open("posts.json") as f:
-        existing = json.load(f)
+        existing_posts = json.load(f)
 except:
-    existing = []
+    existing_posts = []
 
-existing.extend(posts)
+# Prevent duplicates
+existing_urls = {p["url"] for p in existing_posts}
 
-with open("posts.json","w") as f:
-    json.dump(existing,f,indent=2)
+new_posts = [p for p in posts if p["url"] not in existing_urls]
+
+# Combine
+all_posts = existing_posts + new_posts
+
+# Save updated database
+with open("posts.json", "w") as f:
+    json.dump(all_posts, f, indent=2)
+
+print(f"Added {len(new_posts)} new posts")
