@@ -27,13 +27,12 @@ with open("competitors.csv") as f:
 
         for entry in feed.entries[:5]:
 
-            post = {
-                "company": company,
-                "company_url": company_url,
-                "date": str(today),
-                "text": entry.title,
-                "url": entry.link
-            }
+post = {
+    "company": company,
+    "company_url": company_url,
+    "date": str(today),
+    "text": text
+}
 
             posts.append(post)
 
