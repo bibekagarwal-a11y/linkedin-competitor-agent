@@ -33,6 +33,9 @@ jobs:
       - name: Generate weekly summary
         run: python scripts/summarize_weekly.py
 
+      - name: Generate monthly summary
+        run: python scripts/summarize_monthly.py
+
       - name: Commit updates
         run: |
           git config --global user.name "github-actions"
