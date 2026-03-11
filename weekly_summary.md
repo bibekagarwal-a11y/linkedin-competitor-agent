@@ -1,3 +1,3 @@
 # Competitor Intelligence – Last 7 Days
 
-No relevant competitor activity.
+No relevant competitor activity detected.
