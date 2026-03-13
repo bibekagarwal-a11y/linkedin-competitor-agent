@@ -47,6 +47,30 @@ def render_event(event: Dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
+def find_repeated_themes(events: List[Dict[str, Any]]) -> List[str]:
+    counts = defaultdict(int)
+
+    mapping = {
+        "funding_mna": "Funding / ownership activity",
+        "partnership": "Partnership momentum",
+        "product_launch": "Product roadmap movement",
+        "leadership": "Leadership changes",
+        "customer_win": "Customer traction",
+        "expansion": "Market expansion",
+        "thought_leadership": "Thought-leadership positioning",
+        "general_update": "General update flow",
+    }
+
+    for event in events:
+        counts[event.get("event_type", "general_update")] += 1
+
+    themes = []
+    for key, count in sorted(counts.items(), key=lambda x: x[1], reverse=True):
+        if count >= 2:
+            themes.append(f"{mapping.get(key, key)} appeared {count} times.")
+    return themes
+
+
 def main() -> None:
     ensure_dirs()
     events = read_json(EVENTS_FILE, [])
@@ -105,30 +129,6 @@ def main() -> None:
         f.write("\n".join(lines))
 
     print(f"Wrote {WEEKLY_REPORT_FILE}")
-
-
-def find_repeated_themes(events: List[Dict[str, Any]]) -> List[str]:
-    counts = defaultdict(int)
-
-    mapping = {
-        "funding_mna": "Funding / ownership activity",
-        "partnership": "Partnership momentum",
-        "product_launch": "Product roadmap movement",
-        "leadership": "Leadership changes",
-        "customer_win": "Customer traction",
-        "expansion": "Market expansion",
-        "thought_leadership": "Thought-leadership positioning",
-        "general_update": "General update flow",
-    }
-
-    for event in events:
-        counts[event.get("event_type", "general_update")] += 1
-
-    themes = []
-    for key, count in sorted(counts.items(), key=lambda x: x[1], reverse=True):
-        if count >= 2:
-            themes.append(f"{mapping.get(key, key)} appeared {count} times.")
-    return themes
 
 
 if __name__ == "__main__":
