@@ -1,6 +1,6 @@
 from collections import defaultdict
 from difflib import SequenceMatcher
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List
 
 from common import (
     EVENTS_FILE,
@@ -33,7 +33,6 @@ def same_event(a: Dict[str, Any], b: Dict[str, Any]) -> bool:
     if similarity(ta, tb) >= 0.84:
         return True
 
-    # Soft fallback: same event type + strong overlap around key nouns/terms.
     tokens_a = set(ta.split())
     tokens_b = set(tb.split())
     overlap = len(tokens_a & tokens_b)
@@ -73,7 +72,7 @@ def choose_primary_item(cluster: List[Dict[str, Any]]) -> Dict[str, Any]:
     )[0]
 
 
-def summarize_cluster(cluster: List[Dict[str, Any]]) -> str:
+def summarize_cluster(cluster: List[Dict[str, Any]]) -> Dict[str, Any]:
     primary = choose_primary_item(cluster)
     titles = [x["title"] for x in cluster]
 
@@ -140,7 +139,7 @@ def main() -> None:
         by_company[item["company"]].append(item)
 
     events: List[Dict[str, Any]] = []
-    for company, company_items in by_company.items():
+    for _, company_items in by_company.items():
         clusters = cluster_company_items(company_items)
         for cluster in clusters:
             event = summarize_cluster(cluster)
