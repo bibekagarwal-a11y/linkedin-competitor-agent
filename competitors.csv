@@ -1,3 +1,3 @@
-company,linkedin,blog,press
-Volue,https://www.linkedin.com/company/volue/,https://www.volue.com/blog,https://www.volue.com/news
-GMSL,https://www.linkedin.com/company/gas-management-services-limited/,https://www.gasmanagementservices.com/blog,https://www.gasmanagementservices.com/news
+company,primary_name,aliases,domain,linkedin_url,linkedin_feed_url,blog_url,press_url,news_query,include_terms,exclude_terms,priority
+Volue,Volue,"Volue AS|Volue ASA",volue.com,https://www.linkedin.com/company/volue/,,https://www.volue.com/blog,https://www.volue.com/news,"Volue energy software","energy software|power trading|battery optimization|intraday|forecasting|electrification","jobs|careers",1
+GMSL,Gas Management Services Limited,"GMSL|Gas Management Services",gasmanagementservices.com,https://www.linkedin.com/company/gas-management-services-limited/,,https://www.gasmanagementservices.com/blog,https://www.gasmanagementservices.com/news,"\"Gas Management Services\" OR \"Gas Management Services Limited\"","natural gas|trading|gas management|energy|utilities","camera|robotics|sea level|NVIDIA|Jetson|Maxim Integrated|GMSL2",1
