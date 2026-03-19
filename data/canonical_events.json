@@ -121,6 +121,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "bde34d6470dbab6490ae",
+    "company": "Volue",
+    "event_type": "leadership",
+    "headline": "Volue Grid Connector & Grid Optimizer Now Available on SAP Store",
+    "canonical_url": "https://www.volue.com/news/volue-grid-connector-and-grid-optimiser-now-available-on-sap-store",
+    "published_at": null,
+    "importance_score": 12,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Volue Grid Connector & Grid Optimizer Now Available on SAP Store",
+        "url": "https://www.volue.com/news/volue-grid-connector-and-grid-optimiser-now-available-on-sap-store",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Volue Grid Connector & Grid Optimizer Now Available on SAP Store"
+    ],
+    "why_it_matters": "Leadership changes often precede strategy shifts, reorganizations, or a new commercial emphasis."
+  },
+  {
     "event_id": "828c597b9ff5b1f2ade0",
     "company": "Volue",
     "event_type": "general_update",
