@@ -26,6 +26,32 @@
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   },
   {
+    "event_id": "6b64bbcabdb6603042cc",
+    "company": "Volue",
+    "event_type": "funding_mna",
+    "headline": "Volue acquires dispoEnergy to extend scheduling and nomination leadership across European power and gas markets",
+    "canonical_url": "https://www.volue.com/news/volue-acquires-dispoenergy-to-extend-scheduling-and-nomination-leadership-across",
+    "published_at": null,
+    "importance_score": 15,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Volue acquires dispoEnergy to extend scheduling and nomination leadership across European power and gas markets",
+        "url": "https://www.volue.com/news/volue-acquires-dispoenergy-to-extend-scheduling-and-nomination-leadership-across",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Volue acquires dispoEnergy to extend scheduling and nomination leadership across European power and gas markets"
+    ],
+    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
     "event_id": "45f764a80686a3eee000",
     "company": "Volue",
     "event_type": "general_update",
@@ -173,6 +199,40 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "655a809e38489f9b787d",
+    "company": "Volue",
+    "event_type": "funding_mna",
+    "headline": "Firm which provides IT infrastructure to the energy industry acquired by Volue - Insider Media Ltd",
+    "canonical_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTdxeGNIREJIQ0k4Ul9XZFdSQTkwU1g5T3RDTWpTVGFJRnJYblRxZFp6X0tLVFA2YTZuUWRWcHNaWFYxeVRHd1U5OEZDM1lnQjhHZWtxeXp6d3NjWmtGRFBsY09kYlg3SGYzNW9weHo1dmNLMUMwUUVQS3lqNU10cTBvblctRm94dF9BSVllQnNSQk9SRnJRODI3Rjh6UGdQNmJvdkVSMTRlY2ZqUXp3NmFzWlJBdWFOLV9UQjNiWGJuc2c?oc=5",
+    "published_at": "2026-03-03T08:00:00+00:00",
+    "importance_score": 8,
+    "coverage_count": 2,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Firm which provides IT infrastructure to the energy industry acquired by Volue - Insider Media Ltd",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTdxeGNIREJIQ0k4Ul9XZFdSQTkwU1g5T3RDTWpTVGFJRnJYblRxZFp6X0tLVFA2YTZuUWRWcHNaWFYxeVRHd1U5OEZDM1lnQjhHZWtxeXp6d3NjWmtGRFBsY09kYlg3SGYzNW9weHo1dmNLMUMwUUVQS3lqNU10cTBvblctRm94dF9BSVllQnNSQk9SRnJRODI3Rjh6UGdQNmJvdkVSMTRlY2ZqUXp3NmFzWlJBdWFOLV9UQjNiWGJuc2c?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-03-03T08:00:00+00:00"
+      },
+      {
+        "title": "Firm which provides IT infrastructure to the energy industry acquired by Volue - insidermedia.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTdxeGNIREJIQ0k4Ul9XZFdSQTkwU1g5T3RDTWpTVGFJRnJYblRxZFp6X0tLVFA2YTZuUWRWcHNaWFYxeVRHd1U5OEZDM1lnQjhHZWtxeXp6d3NjWmtGRFBsY09kYlg3SGYzNW9weHo1dmNLMUMwUUVQS3lqNU10cTBvblctRm94dF9BSVllQnNSQk9SRnJRODI3Rjh6UGdQNmJvdkVSMTRlY2ZqUXp3NmFzWlJBdWFOLV9UQjNiWGJuc2c?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-03-03T08:00:00+00:00"
+      }
+    ],
+    "summary_basis": [
+      "Firm which provides IT infrastructure to the energy industry acquired by Volue - Insider Media Ltd",
+      "Firm which provides IT infrastructure to the energy industry acquired by Volue - insidermedia.com"
+    ],
+    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
     "event_id": "4a1f4504e189ef153d65",
     "company": "Volue",
     "event_type": "general_update",
@@ -197,32 +257,6 @@
       "Nordic energy tech firm Volue attracts TA as new backer - Renewables Now"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
-  },
-  {
-    "event_id": "655a809e38489f9b787d",
-    "company": "Volue",
-    "event_type": "funding_mna",
-    "headline": "Firm which provides IT infrastructure to the energy industry acquired by Volue - Insider Media Ltd",
-    "canonical_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTdxeGNIREJIQ0k4Ul9XZFdSQTkwU1g5T3RDTWpTVGFJRnJYblRxZFp6X0tLVFA2YTZuUWRWcHNaWFYxeVRHd1U5OEZDM1lnQjhHZWtxeXp6d3NjWmtGRFBsY09kYlg3SGYzNW9weHo1dmNLMUMwUUVQS3lqNU10cTBvblctRm94dF9BSVllQnNSQk9SRnJRODI3Rjh6UGdQNmJvdkVSMTRlY2ZqUXp3NmFzWlJBdWFOLV9UQjNiWGJuc2c?oc=5",
-    "published_at": "2026-03-03T08:00:00+00:00",
-    "importance_score": 8,
-    "coverage_count": 1,
-    "sources": [
-      "news:news.google.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Firm which provides IT infrastructure to the energy industry acquired by Volue - Insider Media Ltd",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTdxeGNIREJIQ0k4Ul9XZFdSQTkwU1g5T3RDTWpTVGFJRnJYblRxZFp6X0tLVFA2YTZuUWRWcHNaWFYxeVRHd1U5OEZDM1lnQjhHZWtxeXp6d3NjWmtGRFBsY09kYlg3SGYzNW9weHo1dmNLMUMwUUVQS3lqNU10cTBvblctRm94dF9BSVllQnNSQk9SRnJRODI3Rjh6UGdQNmJvdkVSMTRlY2ZqUXp3NmFzWlJBdWFOLV9UQjNiWGJuc2c?oc=5",
-        "source_type": "news",
-        "source_name": "news.google.com",
-        "published_at": "2026-03-03T08:00:00+00:00"
-      }
-    ],
-    "summary_basis": [
-      "Firm which provides IT infrastructure to the energy industry acquired by Volue - Insider Media Ltd"
-    ],
-    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   },
   {
     "event_id": "32a977f89b5d938d1b65",
