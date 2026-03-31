@@ -33,7 +33,7 @@
     "canonical_url": "https://www.volue.com/news/volue-acquires-dispoenergy-to-extend-scheduling-and-nomination-leadership-across",
     "published_at": null,
     "importance_score": 15,
-    "coverage_count": 1,
+    "coverage_count": 2,
     "sources": [
       "press:volue.com"
     ],
@@ -44,9 +44,17 @@
         "source_type": "press",
         "source_name": "volue.com",
         "published_at": null
+      },
+      {
+        "title": "Volue acquires dispoEnergy to extend scheduling and nomination leadership across European power and gas markets",
+        "url": "https://www.volue.com/news/volue-acquires-dispoenergy-to-extend-scheduling-and-nomination-leadership-across-europian-power-and-gas-markets",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
       }
     ],
     "summary_basis": [
+      "Volue acquires dispoEnergy to extend scheduling and nomination leadership across European power and gas markets",
       "Volue acquires dispoEnergy to extend scheduling and nomination leadership across European power and gas markets"
     ],
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
