@@ -207,6 +207,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "1d5dfbee0909054de5b4",
+    "company": "Volue",
+    "event_type": "funding_mna",
+    "headline": "Volue Acquires dispoEnergy to Expand European Energy Software Portfolio - Global Legal Chronicle",
+    "canonical_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41THFvb2xUc2hWX0xaYVpKNGtiS1JWX3EwMENqcnNrcHFxYW1wNE9qcU1vNTVUZG1RX1dja1pmbFdpUWs5TjEyMHoxMmJQZktfMm5kOHhoOWs?oc=5",
+    "published_at": "2026-04-10T00:00:00+00:00",
+    "importance_score": 11,
+    "coverage_count": 1,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Volue Acquires dispoEnergy to Expand European Energy Software Portfolio - Global Legal Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41THFvb2xUc2hWX0xaYVpKNGtiS1JWX3EwMENqcnNrcHFxYW1wNE9qcU1vNTVUZG1RX1dja1pmbFdpUWs5TjEyMHoxMmJQZktfMm5kOHhoOWs?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-04-10T00:00:00+00:00"
+      }
+    ],
+    "summary_basis": [
+      "Volue Acquires dispoEnergy to Expand European Energy Software Portfolio - Global Legal Chronicle"
+    ],
+    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
     "event_id": "655a809e38489f9b787d",
     "company": "Volue",
     "event_type": "funding_mna",
