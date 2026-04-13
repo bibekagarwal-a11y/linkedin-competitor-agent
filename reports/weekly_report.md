@@ -1,8 +1,22 @@
 # Weekly Competitor Intelligence
 
-Week ending 2026-04-06
+Week ending 2026-04-13
 
-No high-signal competitor events were found in the last 7 days.
+## Top signals this week
+
+- **Volue** — Volue Acquires dispoEnergy to Expand European Energy Software Portfolio - Global Legal Chronicle (1 source(s), funding_mna)
+
+## Volue
+
+### Volue Acquires dispoEnergy to Expand European Energy Software Portfolio - Global Legal Chronicle
+
+- **Type:** funding_mna
+- **Date:** 2026-04-10
+- **Coverage:** 1 source(s)
+- **Why it matters:** This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning.
+- **Primary link:** https://news.google.com/rss/articles/CBMiWEFVX3lxTE41THFvb2xUc2hWX0xaYVpKNGtiS1JWX3EwMENqcnNrcHFxYW1wNE9qcU1vNTVUZG1RX1dja1pmbFdpUWs5TjEyMHoxMmJQZktfMm5kOHhoOWs?oc=5
+- **Supporting coverage:**
+  - Volue Acquires dispoEnergy to Expand European Energy Software Portfolio - Global Legal Chronicle (news, news.google.com)
 
 ## Method notes
 
