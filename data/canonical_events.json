@@ -86,6 +86,32 @@
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
   },
   {
+    "event_id": "419682ac4547bf5532f7",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Smarter Algorithms. Backtesting at Your Fingertips. A Fully Redesigned Dashboard. — What's New in Volue Algo Trading (PowerBot)",
+    "canonical_url": "https://www.volue.com/news/new-intraday-algotrading-powerbot",
+    "published_at": null,
+    "importance_score": 13,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Smarter Algorithms. Backtesting at Your Fingertips. A Fully Redesigned Dashboard. — What's New in Volue Algo Trading (PowerBot)",
+        "url": "https://www.volue.com/news/new-intraday-algotrading-powerbot",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Smarter Algorithms. Backtesting at Your Fingertips. A Fully Redesigned Dashboard. — What's New in Volue Algo Trading (PowerBot)"
+    ],
+    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
     "event_id": "415e34cc52c291c730eb",
     "company": "Volue",
     "event_type": "funding_mna",
