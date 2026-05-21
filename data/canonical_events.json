@@ -423,6 +423,32 @@
     "why_it_matters": "This may validate product-market fit and create proof points for future sales."
   },
   {
+    "event_id": "a30954819e2f0799f164",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "European Energy Companies Are Rethinking Power Scheduling",
+    "canonical_url": "https://www.volue.com/news/european-energy-companies-are-rethinking-power-scheduling",
+    "published_at": null,
+    "importance_score": 7,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "European Energy Companies Are Rethinking Power Scheduling",
+        "url": "https://www.volue.com/news/european-energy-companies-are-rethinking-power-scheduling",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "European Energy Companies Are Rethinking Power Scheduling"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "ea9600abce1f6273326d",
     "company": "Volue",
     "event_type": "general_update",
