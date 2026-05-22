@@ -501,6 +501,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "0caf8a3ea9bc875fe2eb",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Energy market complexity remains the biggest opportunity",
+    "canonical_url": "https://www.volue.com/news/energy-market-complexity-remains-the-biggest-opportunity",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Energy market complexity remains the biggest opportunity",
+        "url": "https://www.volue.com/news/energy-market-complexity-remains-the-biggest-opportunity",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Energy market complexity remains the biggest opportunity"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "9764f788de9dfc2da17f",
     "company": "Volue",
     "event_type": "general_update",
