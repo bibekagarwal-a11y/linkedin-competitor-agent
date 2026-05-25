@@ -311,6 +311,32 @@
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
   },
   {
+    "event_id": "152478d26bf72f3ac002",
+    "company": "Volue",
+    "event_type": "funding_mna",
+    "headline": "EU okays TA’s investment in Nordic energy tech firm Volue - Renewables Now",
+    "canonical_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3BLQzVwUkVjc1AySk1hTmVrbmlyVS1UdFlDMzJ2QzZpUE10WGhaa0ptYzBWMkRySXluZHF6cFhWS3JndnlDaGtVV19ULU5BbFgzcEx0dTN3dEQ2UjM3el8yZkd0UGl1ZmZkY1R6N3FMdWtKUFpNamRqUjVfSFpLRVUyVkxsUlNSVW5aSTJxZUlGdzZ5ZXhZNzIxNVk?oc=5",
+    "published_at": "2026-04-28T07:00:00+00:00",
+    "importance_score": 9,
+    "coverage_count": 1,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "EU okays TA’s investment in Nordic energy tech firm Volue - Renewables Now",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3BLQzVwUkVjc1AySk1hTmVrbmlyVS1UdFlDMzJ2QzZpUE10WGhaa0ptYzBWMkRySXluZHF6cFhWS3JndnlDaGtVV19ULU5BbFgzcEx0dTN3dEQ2UjM3el8yZkd0UGl1ZmZkY1R6N3FMdWtKUFpNamRqUjVfSFpLRVUyVkxsUlNSVW5aSTJxZUlGdzZ5ZXhZNzIxNVk?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-04-28T07:00:00+00:00"
+      }
+    ],
+    "summary_basis": [
+      "EU okays TA’s investment in Nordic energy tech firm Volue - Renewables Now"
+    ],
+    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
     "event_id": "655a809e38489f9b787d",
     "company": "Volue",
     "event_type": "funding_mna",
