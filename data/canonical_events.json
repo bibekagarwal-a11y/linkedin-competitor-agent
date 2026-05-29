@@ -707,5 +707,31 @@
       "Why short-term production planning is harder than it used to be — and what to do about it"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "897f47d4cb9cbc9147d1",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Building the grid Europe needs: momentum, markets, and what comes next",
+    "canonical_url": "https://www.volue.com/news/building-the-grid-europe-needs-momentum-markets-and-what-comes-next",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Building the grid Europe needs: momentum, markets, and what comes next",
+        "url": "https://www.volue.com/news/building-the-grid-europe-needs-momentum-markets-and-what-comes-next",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Building the grid Europe needs: momentum, markets, and what comes next"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   }
 ]
