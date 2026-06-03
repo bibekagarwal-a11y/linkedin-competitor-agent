@@ -207,6 +207,40 @@
     "why_it_matters": "Leadership changes often precede strategy shifts, reorganizations, or a new commercial emphasis."
   },
   {
+    "event_id": "896f89d7ef36a0082af5",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Women of Volue: introducing Silvia Messa",
+    "canonical_url": "https://www.volue.com/news/women-of-volue-introducing-silvia-messa",
+    "published_at": null,
+    "importance_score": 11,
+    "coverage_count": 2,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Women of Volue: introducing Silvia Messa",
+        "url": "https://www.volue.com/news/women-of-volue-introducing-silvia-messa",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Women of Volue: introducing Silvia Messa",
+        "url": "https://www.volue.com/en/news/women-of-volue-introducing-silvia-messa",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Women of Volue: introducing Silvia Messa",
+      "Women of Volue: introducing Silvia Messa"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "828c597b9ff5b1f2ade0",
     "company": "Volue",
     "event_type": "general_update",
@@ -233,11 +267,11 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
-    "event_id": "896f89d7ef36a0082af5",
+    "event_id": "6c15054eb4e7ae1828e8",
     "company": "Volue",
     "event_type": "general_update",
-    "headline": "Women of Volue: introducing Silvia Messa",
-    "canonical_url": "https://www.volue.com/news/women-of-volue-introducing-silvia-messa",
+    "headline": "Celebrating Pride at Volue: A Sense of Belonging",
+    "canonical_url": "https://www.volue.com/en/news/celebrating-pride-at-volue-a-sense-of-belonging",
     "published_at": null,
     "importance_score": 11,
     "coverage_count": 1,
@@ -246,15 +280,15 @@
     ],
     "supporting_items": [
       {
-        "title": "Women of Volue: introducing Silvia Messa",
-        "url": "https://www.volue.com/news/women-of-volue-introducing-silvia-messa",
+        "title": "Celebrating Pride at Volue: A Sense of Belonging",
+        "url": "https://www.volue.com/en/news/celebrating-pride-at-volue-a-sense-of-belonging",
         "source_type": "press",
         "source_name": "volue.com",
         "published_at": null
       }
     ],
     "summary_basis": [
-      "Women of Volue: introducing Silvia Messa"
+      "Celebrating Pride at Volue: A Sense of Belonging"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
@@ -292,7 +326,7 @@
     "canonical_url": "https://www.volue.com/news/the-hidden-cost-of-running-a-manual-intraday-trading-desk",
     "published_at": null,
     "importance_score": 9,
-    "coverage_count": 1,
+    "coverage_count": 2,
     "sources": [
       "press:volue.com"
     ],
@@ -303,9 +337,17 @@
         "source_type": "press",
         "source_name": "volue.com",
         "published_at": null
+      },
+      {
+        "title": "The Hidden Cost of Running a Manual Intraday Trading Desk",
+        "url": "https://www.volue.com/en/news/the-hidden-cost-of-running-a-manual-intraday-trading-desk",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
       }
     ],
     "summary_basis": [
+      "The Hidden Cost of Running a Manual Intraday Trading Desk",
       "The Hidden Cost of Running a Manual Intraday Trading Desk"
     ],
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
@@ -335,6 +377,40 @@
       "EU okays TA’s investment in Nordic energy tech firm Volue - Renewables Now"
     ],
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
+    "event_id": "35c874126ca83bc949ae",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Why Intraday Execution Is Now an Automation Problem",
+    "canonical_url": "https://www.volue.com/news/why-intraday-execution-is-now-an-automation-problem",
+    "published_at": null,
+    "importance_score": 8,
+    "coverage_count": 2,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Why Intraday Execution Is Now an Automation Problem",
+        "url": "https://www.volue.com/news/why-intraday-execution-is-now-an-automation-problem",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Why Intraday Execution Is Now an Automation Problem",
+        "url": "https://www.volue.com/en/news/why-intraday-execution-is-now-an-automation-problem",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Why Intraday Execution Is Now an Automation Problem",
+      "Why Intraday Execution Is Now an Automation Problem"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
     "event_id": "655a809e38489f9b787d",
@@ -369,32 +445,6 @@
       "Firm which provides IT infrastructure to the energy industry acquired by Volue - insidermedia.com"
     ],
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
-  },
-  {
-    "event_id": "35c874126ca83bc949ae",
-    "company": "Volue",
-    "event_type": "general_update",
-    "headline": "Why Intraday Execution Is Now an Automation Problem",
-    "canonical_url": "https://www.volue.com/news/why-intraday-execution-is-now-an-automation-problem",
-    "published_at": null,
-    "importance_score": 8,
-    "coverage_count": 1,
-    "sources": [
-      "press:volue.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Why Intraday Execution Is Now an Automation Problem",
-        "url": "https://www.volue.com/news/why-intraday-execution-is-now-an-automation-problem",
-        "source_type": "press",
-        "source_name": "volue.com",
-        "published_at": null
-      }
-    ],
-    "summary_basis": [
-      "Why Intraday Execution Is Now an Automation Problem"
-    ],
-    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
     "event_id": "4a1f4504e189ef153d65",
@@ -475,6 +525,40 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "0caf8a3ea9bc875fe2eb",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Energy market complexity remains the biggest opportunity",
+    "canonical_url": "https://www.volue.com/news/energy-market-complexity-remains-the-biggest-opportunity",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 2,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Energy market complexity remains the biggest opportunity",
+        "url": "https://www.volue.com/news/energy-market-complexity-remains-the-biggest-opportunity",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Energy market complexity remains the biggest opportunity",
+        "url": "https://www.volue.com/en/news/energy-market-complexity-remains-the-biggest-opportunity",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Energy market complexity remains the biggest opportunity",
+      "Energy market complexity remains the biggest opportunity"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "ea9600abce1f6273326d",
     "company": "Volue",
     "event_type": "general_update",
@@ -527,32 +611,6 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
-    "event_id": "0caf8a3ea9bc875fe2eb",
-    "company": "Volue",
-    "event_type": "general_update",
-    "headline": "Energy market complexity remains the biggest opportunity",
-    "canonical_url": "https://www.volue.com/news/energy-market-complexity-remains-the-biggest-opportunity",
-    "published_at": null,
-    "importance_score": 6,
-    "coverage_count": 1,
-    "sources": [
-      "press:volue.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Energy market complexity remains the biggest opportunity",
-        "url": "https://www.volue.com/news/energy-market-complexity-remains-the-biggest-opportunity",
-        "source_type": "press",
-        "source_name": "volue.com",
-        "published_at": null
-      }
-    ],
-    "summary_basis": [
-      "Energy market complexity remains the biggest opportunity"
-    ],
-    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
-  },
-  {
     "event_id": "9764f788de9dfc2da17f",
     "company": "Volue",
     "event_type": "general_update",
@@ -575,6 +633,142 @@
     ],
     "summary_basis": [
       "TA Associates invests in PE-backed Volue - pehub.com"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "d666150fff65110e2b98",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Your Flexible Assets May Be Worth More Than You're Capturing",
+    "canonical_url": "https://www.volue.com/news/your-flexible-assets-may-be-worth-more-than-you-re-capturing",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 2,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Your Flexible Assets May Be Worth More Than You're Capturing",
+        "url": "https://www.volue.com/news/your-flexible-assets-may-be-worth-more-than-you-re-capturing",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Your Flexible Assets May Be Worth More Than You're Capturing",
+        "url": "https://www.volue.com/en/news/your-flexible-assets-may-be-worth-more-than-you-re-capturing",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Your Flexible Assets May Be Worth More Than You're Capturing",
+      "Your Flexible Assets May Be Worth More Than You're Capturing"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "a89c54d7b5125ede3959",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Your best planners should not be spending their day clicking refresh",
+    "canonical_url": "https://www.volue.com/news/your-best-planners-should-not-be-spending-their-day-clicking-refresh",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 2,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Your best planners should not be spending their day clicking refresh",
+        "url": "https://www.volue.com/news/your-best-planners-should-not-be-spending-their-day-clicking-refresh",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Your best planners should not be spending their day clicking refresh",
+        "url": "https://www.volue.com/en/news/your-best-planners-should-not-be-spending-their-day-clicking-refresh",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Your best planners should not be spending their day clicking refresh",
+      "Your best planners should not be spending their day clicking refresh"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "d8b5e95a9a1b1fa291a8",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Why short-term production planning is harder than it used to be — and what to do about it",
+    "canonical_url": "https://www.volue.com/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 2,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Why short-term production planning is harder than it used to be — and what to do about it",
+        "url": "https://www.volue.com/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Why short-term production planning is harder than it used to be — and what to do about it",
+        "url": "https://www.volue.com/en/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Why short-term production planning is harder than it used to be — and what to do about it",
+      "Why short-term production planning is harder than it used to be — and what to do about it"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "897f47d4cb9cbc9147d1",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Building the grid Europe needs: momentum, markets, and what comes next",
+    "canonical_url": "https://www.volue.com/news/building-the-grid-europe-needs-momentum-markets-and-what-comes-next",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 2,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Building the grid Europe needs: momentum, markets, and what comes next",
+        "url": "https://www.volue.com/news/building-the-grid-europe-needs-momentum-markets-and-what-comes-next",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Building the grid Europe needs: momentum, markets, and what comes next",
+        "url": "https://www.volue.com/en/news/building-the-grid-europe-needs-momentum-markets-and-what-comes-next",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Building the grid Europe needs: momentum, markets, and what comes next",
+      "Building the grid Europe needs: momentum, markets, and what comes next"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
@@ -627,110 +821,6 @@
     ],
     "summary_basis": [
       "Staying Ahead in a Market That Moves with the Weather"
-    ],
-    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
-  },
-  {
-    "event_id": "d666150fff65110e2b98",
-    "company": "Volue",
-    "event_type": "general_update",
-    "headline": "Your Flexible Assets May Be Worth More Than You're Capturing",
-    "canonical_url": "https://www.volue.com/news/your-flexible-assets-may-be-worth-more-than-you-re-capturing",
-    "published_at": null,
-    "importance_score": 5,
-    "coverage_count": 1,
-    "sources": [
-      "press:volue.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Your Flexible Assets May Be Worth More Than You're Capturing",
-        "url": "https://www.volue.com/news/your-flexible-assets-may-be-worth-more-than-you-re-capturing",
-        "source_type": "press",
-        "source_name": "volue.com",
-        "published_at": null
-      }
-    ],
-    "summary_basis": [
-      "Your Flexible Assets May Be Worth More Than You're Capturing"
-    ],
-    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
-  },
-  {
-    "event_id": "a89c54d7b5125ede3959",
-    "company": "Volue",
-    "event_type": "general_update",
-    "headline": "Your best planners should not be spending their day clicking refresh",
-    "canonical_url": "https://www.volue.com/news/your-best-planners-should-not-be-spending-their-day-clicking-refresh",
-    "published_at": null,
-    "importance_score": 5,
-    "coverage_count": 1,
-    "sources": [
-      "press:volue.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Your best planners should not be spending their day clicking refresh",
-        "url": "https://www.volue.com/news/your-best-planners-should-not-be-spending-their-day-clicking-refresh",
-        "source_type": "press",
-        "source_name": "volue.com",
-        "published_at": null
-      }
-    ],
-    "summary_basis": [
-      "Your best planners should not be spending their day clicking refresh"
-    ],
-    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
-  },
-  {
-    "event_id": "d8b5e95a9a1b1fa291a8",
-    "company": "Volue",
-    "event_type": "general_update",
-    "headline": "Why short-term production planning is harder than it used to be — and what to do about it",
-    "canonical_url": "https://www.volue.com/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
-    "published_at": null,
-    "importance_score": 5,
-    "coverage_count": 1,
-    "sources": [
-      "press:volue.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Why short-term production planning is harder than it used to be — and what to do about it",
-        "url": "https://www.volue.com/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
-        "source_type": "press",
-        "source_name": "volue.com",
-        "published_at": null
-      }
-    ],
-    "summary_basis": [
-      "Why short-term production planning is harder than it used to be — and what to do about it"
-    ],
-    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
-  },
-  {
-    "event_id": "897f47d4cb9cbc9147d1",
-    "company": "Volue",
-    "event_type": "general_update",
-    "headline": "Building the grid Europe needs: momentum, markets, and what comes next",
-    "canonical_url": "https://www.volue.com/news/building-the-grid-europe-needs-momentum-markets-and-what-comes-next",
-    "published_at": null,
-    "importance_score": 5,
-    "coverage_count": 1,
-    "sources": [
-      "press:volue.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Building the grid Europe needs: momentum, markets, and what comes next",
-        "url": "https://www.volue.com/news/building-the-grid-europe-needs-momentum-markets-and-what-comes-next",
-        "source_type": "press",
-        "source_name": "volue.com",
-        "published_at": null
-      }
-    ],
-    "summary_basis": [
-      "Building the grid Europe needs: momentum, markets, and what comes next"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   }
