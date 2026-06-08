@@ -241,6 +241,40 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "6c15054eb4e7ae1828e8",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Celebrating Pride at Volue: A Sense of Belonging",
+    "canonical_url": "https://www.volue.com/en/news/celebrating-pride-at-volue-a-sense-of-belonging",
+    "published_at": null,
+    "importance_score": 11,
+    "coverage_count": 2,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Celebrating Pride at Volue: A Sense of Belonging",
+        "url": "https://www.volue.com/en/news/celebrating-pride-at-volue-a-sense-of-belonging",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Celebrating Pride at Volue: A Sense of Belonging",
+        "url": "https://www.volue.com/news/celebrating-pride-at-volue-a-sense-of-belonging",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Celebrating Pride at Volue: A Sense of Belonging",
+      "Celebrating Pride at Volue: A Sense of Belonging"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "828c597b9ff5b1f2ade0",
     "company": "Volue",
     "event_type": "general_update",
@@ -263,32 +297,6 @@
     ],
     "summary_basis": [
       "Introducing our new ‘Women of Volue’ series"
-    ],
-    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
-  },
-  {
-    "event_id": "6c15054eb4e7ae1828e8",
-    "company": "Volue",
-    "event_type": "general_update",
-    "headline": "Celebrating Pride at Volue: A Sense of Belonging",
-    "canonical_url": "https://www.volue.com/en/news/celebrating-pride-at-volue-a-sense-of-belonging",
-    "published_at": null,
-    "importance_score": 11,
-    "coverage_count": 1,
-    "sources": [
-      "press:volue.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Celebrating Pride at Volue: A Sense of Belonging",
-        "url": "https://www.volue.com/en/news/celebrating-pride-at-volue-a-sense-of-belonging",
-        "source_type": "press",
-        "source_name": "volue.com",
-        "published_at": null
-      }
-    ],
-    "summary_basis": [
-      "Celebrating Pride at Volue: A Sense of Belonging"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
