@@ -831,5 +831,31 @@
       "Staying Ahead in a Market That Moves with the Weather"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "8202fd652357371a82ed",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Why Inclusion Creates Better Work",
+    "canonical_url": "https://www.volue.com/news/why-inclusion-creates-better-work",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Why Inclusion Creates Better Work",
+        "url": "https://www.volue.com/news/why-inclusion-creates-better-work",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Why Inclusion Creates Better Work"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   }
 ]
