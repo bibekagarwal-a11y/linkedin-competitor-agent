@@ -619,6 +619,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "3c27d91f2a03cb409318",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Seeing is Believing: Experiencing Europe's Energy Transition First-Hand",
+    "canonical_url": "https://www.volue.com/news/seeing-is-believing-experiencing-europes-energy-transition-first-hand",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Seeing is Believing: Experiencing Europe's Energy Transition First-Hand",
+        "url": "https://www.volue.com/news/seeing-is-believing-experiencing-europes-energy-transition-first-hand",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Seeing is Believing: Experiencing Europe's Energy Transition First-Hand"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "9764f788de9dfc2da17f",
     "company": "Volue",
     "event_type": "general_update",
