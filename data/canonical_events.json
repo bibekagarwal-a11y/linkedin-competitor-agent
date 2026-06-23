@@ -301,6 +301,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "11cac38348f8fb517f27",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Elvia and Volue advance network planning across one of the Nordic's largest distribution grids",
+    "canonical_url": "https://www.volue.com/news/elvia-and-volue-advance-network-planning-across-one-of-the-nordics-largest-distri",
+    "published_at": null,
+    "importance_score": 11,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Elvia and Volue advance network planning across one of the Nordic's largest distribution grids",
+        "url": "https://www.volue.com/news/elvia-and-volue-advance-network-planning-across-one-of-the-nordics-largest-distri",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Elvia and Volue advance network planning across one of the Nordic's largest distribution grids"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "1d5dfbee0909054de5b4",
     "company": "Volue",
     "event_type": "funding_mna",
