@@ -327,6 +327,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "59d7715648d1c098f30c",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Women of Volue: introducing Karoline Skatteboe",
+    "canonical_url": "https://www.volue.com/news/women-of-volue-introducing-karoline-skatteboe",
+    "published_at": null,
+    "importance_score": 11,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Women of Volue: introducing Karoline Skatteboe",
+        "url": "https://www.volue.com/news/women-of-volue-introducing-karoline-skatteboe",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Women of Volue: introducing Karoline Skatteboe"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "1d5dfbee0909054de5b4",
     "company": "Volue",
     "event_type": "funding_mna",
