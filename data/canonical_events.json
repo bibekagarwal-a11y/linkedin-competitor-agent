@@ -585,6 +585,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "9eae0172583e5161b36e",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Why Multi-Market Trading Is Breaking Energy Companies",
+    "canonical_url": "https://www.volue.com/news/why-multi-market-trading-is-breaking-energy-companies",
+    "published_at": null,
+    "importance_score": 7,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Why Multi-Market Trading Is Breaking Energy Companies",
+        "url": "https://www.volue.com/news/why-multi-market-trading-is-breaking-energy-companies",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Why Multi-Market Trading Is Breaking Energy Companies"
+    ],
+    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
     "event_id": "0caf8a3ea9bc875fe2eb",
     "company": "Volue",
     "event_type": "general_update",
@@ -933,6 +959,32 @@
     ],
     "summary_basis": [
       "Why Inclusion Creates Better Work"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "2148bf75de3ab8180139",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Why Pride Means Life to Me",
+    "canonical_url": "https://www.volue.com/news/why-pride-means-life-to-me",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Why Pride Means Life to Me",
+        "url": "https://www.volue.com/news/why-pride-means-life-to-me",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Why Pride Means Life to Me"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   }
