@@ -1,6 +1,6 @@
 # Weekly Competitor Intelligence
 
-Week ending 2026-06-22
+Week ending 2026-06-29
 
 No high-signal competitor events were found in the last 7 days.
 
