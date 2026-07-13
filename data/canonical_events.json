@@ -723,6 +723,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "e5468d4493a44f82b8a3",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Your Trading Stack Has a Configuration Problem",
+    "canonical_url": "https://www.volue.com/news/your-trading-stack-has-a-configuration-problem",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Your Trading Stack Has a Configuration Problem",
+        "url": "https://www.volue.com/news/your-trading-stack-has-a-configuration-problem",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Your Trading Stack Has a Configuration Problem"
+    ],
+    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
     "event_id": "9764f788de9dfc2da17f",
     "company": "Volue",
     "event_type": "general_update",
