@@ -112,6 +112,32 @@
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
   },
   {
+    "event_id": "b86a94339022b578b3a9",
+    "company": "Volue",
+    "event_type": "funding_mna",
+    "headline": "Volue Acquires FlexPowerHub to Strengthen Its Position in Europe’s Ancillary Markets",
+    "canonical_url": "https://www.volue.com/news/volue-acquires-flexpowerhub-to-strengthen-its-position-in-europes-ancillary-marke",
+    "published_at": null,
+    "importance_score": 13,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Volue Acquires FlexPowerHub to Strengthen Its Position in Europe’s Ancillary Markets",
+        "url": "https://www.volue.com/news/volue-acquires-flexpowerhub-to-strengthen-its-position-in-europes-ancillary-marke",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Volue Acquires FlexPowerHub to Strengthen Its Position in Europe’s Ancillary Markets"
+    ],
+    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
     "event_id": "415e34cc52c291c730eb",
     "company": "Volue",
     "event_type": "funding_mna",
