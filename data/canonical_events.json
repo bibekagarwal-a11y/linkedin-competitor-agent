@@ -465,6 +465,32 @@
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   },
   {
+    "event_id": "e40908c7aedffed92ef0",
+    "company": "Volue",
+    "event_type": "funding_mna",
+    "headline": "FlexPowerHub: Salzburg-Based EnergyTech Acquired by Norway’s Volue - trendingtopics.eu",
+    "canonical_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFJQODI1Skd4dEFucVJvLVJMcEZoWlJVMVFHLVo0R1FhcThZMHJuVzhDOVV6NzhSLWM1QnRpOVlhN2NTOFBpaFM3Z0pjMzVTVExFQVdvTnZISjAzR0xia2d6Q3duTFVneXV5dkVIa2xJMzlzNnNpZllGc2g0TjVoeHllSU4wMTdOTUFqdzIyUDZtbm56Z3JacXFrWQ?oc=5",
+    "published_at": "2026-07-14T15:01:45+00:00",
+    "importance_score": 9,
+    "coverage_count": 1,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "FlexPowerHub: Salzburg-Based EnergyTech Acquired by Norway’s Volue - trendingtopics.eu",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFJQODI1Skd4dEFucVJvLVJMcEZoWlJVMVFHLVo0R1FhcThZMHJuVzhDOVV6NzhSLWM1QnRpOVlhN2NTOFBpaFM3Z0pjMzVTVExFQVdvTnZISjAzR0xia2d6Q3duTFVneXV5dkVIa2xJMzlzNnNpZllGc2g0TjVoeHllSU4wMTdOTUFqdzIyUDZtbm56Z3JacXFrWQ?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-07-14T15:01:45+00:00"
+      }
+    ],
+    "summary_basis": [
+      "FlexPowerHub: Salzburg-Based EnergyTech Acquired by Norway’s Volue - trendingtopics.eu"
+    ],
+    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
     "event_id": "35c874126ca83bc949ae",
     "company": "Volue",
     "event_type": "general_update",
