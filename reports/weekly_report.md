@@ -1,8 +1,22 @@
 # Weekly Competitor Intelligence
 
-Week ending 2026-07-13
+Week ending 2026-07-20
 
-No high-signal competitor events were found in the last 7 days.
+## Top signals this week
+
+- **Volue** — FlexPowerHub: Salzburg-Based EnergyTech Acquired by Norway’s Volue - trendingtopics.eu (1 source(s), funding_mna)
+
+## Volue
+
+### FlexPowerHub: Salzburg-Based EnergyTech Acquired by Norway’s Volue - trendingtopics.eu
+
+- **Type:** funding_mna
+- **Date:** 2026-07-14
+- **Coverage:** 1 source(s)
+- **Why it matters:** This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning.
+- **Primary link:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFJQODI1Skd4dEFucVJvLVJMcEZoWlJVMVFHLVo0R1FhcThZMHJuVzhDOVV6NzhSLWM1QnRpOVlhN2NTOFBpaFM3Z0pjMzVTVExFQVdvTnZISjAzR0xia2d6Q3duTFVneXV5dkVIa2xJMzlzNnNpZllGc2g0TjVoeHllSU4wMTdOTUFqdzIyUDZtbm56Z3JacXFrWQ?oc=5
+- **Supporting coverage:**
+  - FlexPowerHub: Salzburg-Based EnergyTech Acquired by Norway’s Volue - trendingtopics.eu (news, news.google.com)
 
 ## Method notes
 
