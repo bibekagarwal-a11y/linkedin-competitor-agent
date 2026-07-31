@@ -715,6 +715,32 @@
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
   },
   {
+    "event_id": "7527e0c97600b657e9e5",
+    "company": "Volue",
+    "event_type": "thought_leadership",
+    "headline": "Energy One (EOL AU): Volue (Reportedly) Makes An Offer - Smartkarma",
+    "canonical_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjU2V3NGTzJZUzdIVGJiQm50cGZDMTJlV0hmX2N1NTcwaDJpVGNyMktwd3Jaa1NEUkFsZ3F5bFVRMm1ONER5ME04bG9scm1JWlZqMUFZOVBuTWtxZnFzSWdOdmFtaDJvS000RVVienhNWExvdW1SeHMxZ2drTjFpRk51bUxnRGc3aVFfZ05R?oc=5",
+    "published_at": "2026-07-30T02:14:54+00:00",
+    "importance_score": 7,
+    "coverage_count": 1,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Energy One (EOL AU): Volue (Reportedly) Makes An Offer - Smartkarma",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjU2V3NGTzJZUzdIVGJiQm50cGZDMTJlV0hmX2N1NTcwaDJpVGNyMktwd3Jaa1NEUkFsZ3F5bFVRMm1ONER5ME04bG9scm1JWlZqMUFZOVBuTWtxZnFzSWdOdmFtaDJvS000RVVienhNWExvdW1SeHMxZ2drTjFpRk51bUxnRGc3aVFfZ05R?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-07-30T02:14:54+00:00"
+      }
+    ],
+    "summary_basis": [
+      "Energy One (EOL AU): Volue (Reportedly) Makes An Offer - Smartkarma"
+    ],
+    "why_it_matters": "Repeated messaging here can reveal positioning, category creation efforts, or demand-gen themes."
+  },
+  {
     "event_id": "0caf8a3ea9bc875fe2eb",
     "company": "Volue",
     "event_type": "general_update",
