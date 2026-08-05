@@ -741,6 +741,32 @@
     "why_it_matters": "Repeated messaging here can reveal positioning, category creation efforts, or demand-gen themes."
   },
   {
+    "event_id": "695d53fa4b5ba588a815",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Energy One Jumps as Norwegian Suitor Volue Tables a $17-a-Share Bid — Which the Board Rejects - Kalkine",
+    "canonical_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRMb281ZXRZOTBYbk1qV1JBSnJyT0ZiQngtTlU0dFFGMlJRMmdhRzh0TUpad2V0NDMyeDFnWVg1VmxZd2R4ckNKbVFwMXB6c0htRWJQd1hQeUtMclZuMmZpemlHLVdQZG56N2txenZLTEFHX3VHdWVCYVJPSjcxaThzRFdnUzNBUWpoQjU0Mk50S0xEak9fNmI4RHV6WC1URmNWSzNtSlFLMEpSWF92MERZOGJfZklhc0V1RlRzMkltZ3p5dGlNNw?oc=5",
+    "published_at": "2026-08-04T05:04:00+00:00",
+    "importance_score": 7,
+    "coverage_count": 1,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Energy One Jumps as Norwegian Suitor Volue Tables a $17-a-Share Bid — Which the Board Rejects - Kalkine",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRMb281ZXRZOTBYbk1qV1JBSnJyT0ZiQngtTlU0dFFGMlJRMmdhRzh0TUpad2V0NDMyeDFnWVg1VmxZd2R4ckNKbVFwMXB6c0htRWJQd1hQeUtMclZuMmZpemlHLVdQZG56N2txenZLTEFHX3VHdWVCYVJPSjcxaThzRFdnUzNBUWpoQjU0Mk50S0xEak9fNmI4RHV6WC1URmNWSzNtSlFLMEpSWF92MERZOGJfZklhc0V1RlRzMkltZ3p5dGlNNw?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-08-04T05:04:00+00:00"
+      }
+    ],
+    "summary_basis": [
+      "Energy One Jumps as Norwegian Suitor Volue Tables a $17-a-Share Bid — Which the Board Rejects - Kalkine"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "0caf8a3ea9bc875fe2eb",
     "company": "Volue",
     "event_type": "general_update",
