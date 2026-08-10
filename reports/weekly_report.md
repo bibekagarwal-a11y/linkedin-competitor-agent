@@ -1,33 +1,39 @@
 # Weekly Competitor Intelligence
 
-Week ending 2026-08-03
+Week ending 2026-08-10
 
 ## Top signals this week
 
-- **Volue** — Energy One rejects 'opportunistic' $539m takeover bid from Norwegian software firm Volue - Business News Australia (1 source(s), general_update)
-- **Volue** — Energy One (EOL AU): Volue (Reportedly) Makes An Offer - Smartkarma (1 source(s), thought_leadership)
+- **Volue** — Energy One (ASX:EOL) Rejects Revised AUD 17-a-Share Takeover Proposal From Volue - kalkine.com.au (2 source(s), general_update)
+- **Volue** — Energy One Jumps as Norwegian Suitor Volue Tables a $17-a-Share Bid — Which the Board Rejects - Kalkine (2 source(s), general_update)
 
 ## Volue
 
-### Energy One rejects 'opportunistic' $539m takeover bid from Norwegian software firm Volue - Business News Australia
+### Energy One (ASX:EOL) Rejects Revised AUD 17-a-Share Takeover Proposal From Volue - kalkine.com.au
 
 - **Type:** general_update
-- **Date:** 2026-07-30
-- **Coverage:** 1 source(s)
+- **Date:** 2026-08-07
+- **Coverage:** 2 source(s)
 - **Why it matters:** This appears notable enough to track and may matter if repeated across multiple weeks or sources.
-- **Primary link:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSnlIYVFkYkJHaWxfOUxRU1lVc0p6SlhYa0xsampad3lBY1VQZU5RcGZKdV9oS1A3X01mbWcxV0l6eThmeXFpT0ctd3VDbzNhVXc3TkltVVNKRXMxcG1LQzc4Y0NqUTlVWGJ2SnBORHhsbi1xS1Z3V2RmXzMtazdTUWJfZ2RaTlpZYnk5c3NJRkRCUVNCOTh2aGtMZ1ZDdTNMWjFDMGM1OG9WV09ISUtGR0Q4WmJUa0x0UWtUQ3ZNMWp2RGV5VExnWW9saE5KSTRxQUVF?oc=5
+- **Primary link:** https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkp3bHpvVkVuaXg0Y3Z4TU1zUlgyVWxZLW5mOURyTllKM0VFZVp4LTIxN0xNbk0zRnpiR0dPbkp0dm96OTJtc0h5OU91cUZFUlAzZXRrdzZJeHpNdnhmNFUwSVRWRUlaRGJJajQxX3pabEpuWlNmcmt3bTlPUzhIMzZpUE1FWnJsUHNEN0k1bjlpTzNPY2ZGa0MtcTZyQU00RUFvdU9nVVpyMDhoZDNwMkNLZlAzWjA?oc=5
 - **Supporting coverage:**
-  - Energy One rejects 'opportunistic' $539m takeover bid from Norwegian software firm Volue - Business News Australia (news, news.google.com)
+  - Energy One (ASX:EOL) Rejects Revised AUD 17-a-Share Takeover Proposal From Volue - Kalkine (news, news.google.com)
+  - Energy One (ASX:EOL) Rejects Revised AUD 17-a-Share Takeover Proposal From Volue - kalkine.com.au (news, news.google.com)
 
-### Energy One (EOL AU): Volue (Reportedly) Makes An Offer - Smartkarma
+### Energy One Jumps as Norwegian Suitor Volue Tables a $17-a-Share Bid — Which the Board Rejects - Kalkine
 
-- **Type:** thought_leadership
-- **Date:** 2026-07-30
-- **Coverage:** 1 source(s)
-- **Why it matters:** Repeated messaging here can reveal positioning, category creation efforts, or demand-gen themes.
-- **Primary link:** https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjU2V3NGTzJZUzdIVGJiQm50cGZDMTJlV0hmX2N1NTcwaDJpVGNyMktwd3Jaa1NEUkFsZ3F5bFVRMm1ONER5ME04bG9scm1JWlZqMUFZOVBuTWtxZnFzSWdOdmFtaDJvS000RVVienhNWExvdW1SeHMxZ2drTjFpRk51bUxnRGc3aVFfZ05R?oc=5
+- **Type:** general_update
+- **Date:** 2026-08-04
+- **Coverage:** 2 source(s)
+- **Why it matters:** This appears notable enough to track and may matter if repeated across multiple weeks or sources.
+- **Primary link:** https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzRMb281ZXRZOTBYbk1qV1JBSnJyT0ZiQngtTlU0dFFGMlJRMmdhRzh0TUpad2V0NDMyeDFnWVg1VmxZd2R4ckNKbVFwMXB6c0htRWJQd1hQeUtMclZuMmZpemlHLVdQZG56N2txenZLTEFHX3VHdWVCYVJPSjcxaThzRFdnUzNBUWpoQjU0Mk50S0xEak9fNmI4RHV6WC1URmNWSzNtSlFLMEpSWF92MERZOGJfZklhc0V1RlRzMkltZ3p5dGlNNw?oc=5
 - **Supporting coverage:**
-  - Energy One (EOL AU): Volue (Reportedly) Makes An Offer - Smartkarma (news, news.google.com)
+  - Energy One Jumps as Norwegian Suitor Volue Tables a $17-a-Share Bid — Which the Board Rejects - Kalkine (news, news.google.com)
+  - Energy One Jumps as Norwegian Suitor Volue Tables a $17-a-Share Bid — Which the Board Rejects - kalkine.com.au (news, news.google.com)
+
+### Repeated themes
+
+- General update flow appeared 2 times.
 
 ## Method notes
 
