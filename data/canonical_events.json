@@ -405,6 +405,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "479f963da39f0c60bf18",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Volue connects AuctionTrader to EXAA",
+    "canonical_url": "https://www.volue.com/news/volue-connects-auctiontrader-to-exaa",
+    "published_at": null,
+    "importance_score": 11,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Volue connects AuctionTrader to EXAA",
+        "url": "https://www.volue.com/news/volue-connects-auctiontrader-to-exaa",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Volue connects AuctionTrader to EXAA"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "1d5dfbee0909054de5b4",
     "company": "Volue",
     "event_type": "funding_mna",
