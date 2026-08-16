@@ -457,6 +457,32 @@
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   },
   {
+    "event_id": "ce18f62d851c86bb3d91",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "ASX-listed Energy One rejects Volue AS takeover bid - grafa.com",
+    "canonical_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdjltN1BvSHZrcGMyMEZXcjZRQ0pZU1luSFA5Q1otbW94Yjhuc0dva3NFbUlWX3FWN1YtRndINTVQZVViaGdrVy1TWUZLVVEwM1NOM3NsUDhWRTRpNS02TEJQZEdaY3M2aFFmU1BSWEJ1ekxPeFU4cjdqSlBlaXE2NDZR?oc=5",
+    "published_at": "2026-07-29T07:00:00+00:00",
+    "importance_score": 10,
+    "coverage_count": 1,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "ASX-listed Energy One rejects Volue AS takeover bid - grafa.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdjltN1BvSHZrcGMyMEZXcjZRQ0pZU1luSFA5Q1otbW94Yjhuc0dva3NFbUlWX3FWN1YtRndINTVQZVViaGdrVy1TWUZLVVEwM1NOM3NsUDhWRTRpNS02TEJQZEdaY3M2aFFmU1BSWEJ1ekxPeFU4cjdqSlBlaXE2NDZR?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-07-29T07:00:00+00:00"
+      }
+    ],
+    "summary_basis": [
+      "ASX-listed Energy One rejects Volue AS takeover bid - grafa.com"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "128739a86e96136bf0bd",
     "company": "Volue",
     "event_type": "general_update",
