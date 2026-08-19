@@ -569,6 +569,32 @@
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   },
   {
+    "event_id": "6c541937c3ac14feb1e3",
+    "company": "GMSL",
+    "event_type": "funding_mna",
+    "headline": "Energy One to Acquire Gas Management Services in Nearly AU$100 Million All-Scrip Deal - marketscreener.com",
+    "canonical_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWdGQ2lOcDc4SU1JX1N4N2NuQ3d6RlZ6dklWNEgwZFY1VmcxWkJSc2VZMk1Cd0FiWldVMVdoaVJqQ3JEX0hKLWdpTENkX1ltZ3pRX2JuRkY2N2NIeXZ6cVhodnNZRFZzSmVHMWo0RWloVDlkMElxQ0JZeFk3T0hhUldQakpreHk4czV1MDZTcWFuTGdTVEJwOVBaMmxrRGtTaHdGVWpwU3BhSmtIT3BGc0xHZmp2RzM0Q2thMVdBOWtybXUtMWhHcWpyTE03SmxrSTN0bQ?oc=5",
+    "published_at": "2026-08-19T00:06:12+00:00",
+    "importance_score": 9,
+    "coverage_count": 1,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Energy One to Acquire Gas Management Services in Nearly AU$100 Million All-Scrip Deal - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWdGQ2lOcDc4SU1JX1N4N2NuQ3d6RlZ6dklWNEgwZFY1VmcxWkJSc2VZMk1Cd0FiWldVMVdoaVJqQ3JEX0hKLWdpTENkX1ltZ3pRX2JuRkY2N2NIeXZ6cVhodnNZRFZzSmVHMWo0RWloVDlkMElxQ0JZeFk3T0hhUldQakpreHk4czV1MDZTcWFuTGdTVEJwOVBaMmxrRGtTaHdGVWpwU3BhSmtIT3BGc0xHZmp2RzM0Q2thMVdBOWtybXUtMWhHcWpyTE03SmxrSTN0bQ?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-08-19T00:06:12+00:00"
+      }
+    ],
+    "summary_basis": [
+      "Energy One to Acquire Gas Management Services in Nearly AU$100 Million All-Scrip Deal - marketscreener.com"
+    ],
+    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
     "event_id": "ffe548f4ee064ad7d8b3",
     "company": "Volue",
     "event_type": "general_update",
@@ -701,6 +727,32 @@
     ],
     "summary_basis": [
       "Nordic energy tech firm Volue attracts TA as new backer - Renewables Now"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "4b13aa51399bcdb2cbfe",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Energy One (ASX:EOL) Trades Below Volue's $17 Offer as Deal Risk, Not a Software Selloff, Sets the Price - Kalkine",
+    "canonical_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWNUYmlOekFtSzhDWEZkZHlRYUFJSlBUcGU0STRVQnBFUzlvUVVybmNJeXpDZUNVQ3R0SUE3M0N2aWEtNlozQkFwWUU4TVNmblVQYU4yYWdMczAyalhXaEl5ZDFTUHZkUUdWZVUtT0JzWTNUUnNlT0cybkZhTUZtRm9YR1B6VUlRSlgxbTFPQ1pmbURpRVkyTkZsZWxnenZKMlowY2pyOXJuVWJlRVB6c2hyaktkb010NlUzYkVsajVhbDhMcjJBd3l0WDhkTGYtQVE?oc=5",
+    "published_at": "2026-08-18T07:30:00+00:00",
+    "importance_score": 8,
+    "coverage_count": 1,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Energy One (ASX:EOL) Trades Below Volue's $17 Offer as Deal Risk, Not a Software Selloff, Sets the Price - Kalkine",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWNUYmlOekFtSzhDWEZkZHlRYUFJSlBUcGU0STRVQnBFUzlvUVVybmNJeXpDZUNVQ3R0SUE3M0N2aWEtNlozQkFwWUU4TVNmblVQYU4yYWdMczAyalhXaEl5ZDFTUHZkUUdWZVUtT0JzWTNUUnNlT0cybkZhTUZtRm9YR1B6VUlRSlgxbTFPQ1pmbURpRVkyTkZsZWxnenZKMlowY2pyOXJuVWJlRVB6c2hyaktkb010NlUzYkVsajVhbDhMcjJBd3l0WDhkTGYtQVE?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-08-18T07:30:00+00:00"
+      }
+    ],
+    "summary_basis": [
+      "Energy One (ASX:EOL) Trades Below Volue's $17 Offer as Deal Risk, Not a Software Selloff, Sets the Price - Kalkine"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
