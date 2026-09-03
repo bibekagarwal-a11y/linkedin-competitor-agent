@@ -164,6 +164,32 @@
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   },
   {
+    "event_id": "e67a49a1426aa391fc69",
+    "company": "Volue",
+    "event_type": "funding_mna",
+    "headline": "Volue confirms decision not to pursue Energy One acquisition",
+    "canonical_url": "https://www.volue.com/news/volue-confirms-decision-not-to-pursue-energy-one-acquisition",
+    "published_at": null,
+    "importance_score": 13,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Volue confirms decision not to pursue Energy One acquisition",
+        "url": "https://www.volue.com/news/volue-confirms-decision-not-to-pursue-energy-one-acquisition",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Volue confirms decision not to pursue Energy One acquisition"
+    ],
+    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
     "event_id": "415e34cc52c291c730eb",
     "company": "Volue",
     "event_type": "funding_mna",
