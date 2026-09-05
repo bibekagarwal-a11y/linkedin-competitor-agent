@@ -653,6 +653,32 @@
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
   },
   {
+    "event_id": "77733fa8f1c8afdbdf83",
+    "company": "Volue",
+    "event_type": "customer_win",
+    "headline": "dispoEnergy fully integrated and supporting power and gas customers across Europe",
+    "canonical_url": "https://www.volue.com/news/dispoenergy-fully-integrated-and-supporting-power-and-gas-customers-across-europe",
+    "published_at": null,
+    "importance_score": 9,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "dispoEnergy fully integrated and supporting power and gas customers across Europe",
+        "url": "https://www.volue.com/news/dispoenergy-fully-integrated-and-supporting-power-and-gas-customers-across-europe",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "dispoEnergy fully integrated and supporting power and gas customers across Europe"
+    ],
+    "why_it_matters": "This may validate product-market fit and create proof points for future sales."
+  },
+  {
     "event_id": "152478d26bf72f3ac002",
     "company": "Volue",
     "event_type": "funding_mna",
@@ -1177,6 +1203,32 @@
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
   },
   {
+    "event_id": "1225f457f687b95c0b92",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "The Battery Is Easy. Optimisation",
+    "canonical_url": "https://www.volue.com/news/the-battery-is-easy-operating-it-isnt-why-bess-optimisation-decides-value",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "The Battery Is Easy. Optimisation",
+        "url": "https://www.volue.com/news/the-battery-is-easy-operating-it-isnt-why-bess-optimisation-decides-value",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "The Battery Is Easy. Optimisation"
+    ],
+    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
     "event_id": "9764f788de9dfc2da17f",
     "company": "Volue",
     "event_type": "general_update",
@@ -1465,6 +1517,32 @@
     ],
     "summary_basis": [
       "Are you leaving money on the table? Without backtesting, you can't know."
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "84919907b1190e984c50",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Frequency Is Full: United Kingdom",
+    "canonical_url": "https://www.volue.com/news/frequency-is-full-where-uk-battery-storage-revenue-comes-from-now",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Frequency Is Full: United Kingdom",
+        "url": "https://www.volue.com/news/frequency-is-full-where-uk-battery-storage-revenue-comes-from-now",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Frequency Is Full: United Kingdom"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
