@@ -1039,6 +1039,32 @@
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
   },
   {
+    "event_id": "36f6ce11ebb2200f11aa",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "The New Economics of Battery Trading in Europe",
+    "canonical_url": "https://www.volue.com/news/the-new-economics-of-battery-trading-in-europe",
+    "published_at": null,
+    "importance_score": 7,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "The New Economics of Battery Trading in Europe",
+        "url": "https://www.volue.com/news/the-new-economics-of-battery-trading-in-europe",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "The New Economics of Battery Trading in Europe"
+    ],
+    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
     "event_id": "7527e0c97600b657e9e5",
     "company": "Volue",
     "event_type": "thought_leadership",
