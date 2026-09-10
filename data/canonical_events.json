@@ -1606,7 +1606,7 @@
     "canonical_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWFQWVlvZEdDOEVzVFhwU0pJNF9ObDVPOFczbDJQZjA5MjdRQUFuNkZaTGxRclZudFk2NTFXUWVqdEdtanRHbUl6TUNSNDE1RnhyMEJsMnB0T3FES01VbVloY2lhU3ZIUXR3c1l1Ump1SUNxSnh2bjkxZEdxWHlELXZYUllXalVSV3lvMnNmX0txZlFTMWFNQjlLQUZYQVpoSGl3X21qcHctam8xd2lnNi1Fd0phZzZoRkE?oc=5",
     "published_at": "2026-08-20T05:32:02+00:00",
     "importance_score": 4,
-    "coverage_count": 1,
+    "coverage_count": 2,
     "sources": [
       "news:news.google.com"
     ],
@@ -1617,10 +1617,18 @@
         "source_type": "news",
         "source_name": "news.google.com",
         "published_at": "2026-08-20T05:32:02+00:00"
+      },
+      {
+        "title": "Energy One (ASX: EOL) Share Price Gains Over 10% On FY 2026 Results and Acquisition Announcement - arichlife.com.au",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWFQWVlvZEdDOEVzVFhwU0pJNF9ObDVPOFczbDJQZjA5MjdRQUFuNkZaTGxRclZudFk2NTFXUWVqdEdtanRHbUl6TUNSNDE1RnhyMEJsMnB0T3FES01VbVloY2lhU3ZIUXR3c1l1Ump1SUNxSnh2bjkxZEdxWHlELXZYUllXalVSV3lvMnNmX0txZlFTMWFNQjlLQUZYQVpoSGl3X21qcHctam8xd2lnNi1Fd0phZzZoRkE?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-08-20T05:32:02+00:00"
       }
     ],
     "summary_basis": [
-      "Energy One (ASX: EOL) Share Price Gains Over 10% On FY 2026 Results and Acquisition Announcement - A Rich Life"
+      "Energy One (ASX: EOL) Share Price Gains Over 10% On FY 2026 Results and Acquisition Announcement - A Rich Life",
+      "Energy One (ASX: EOL) Share Price Gains Over 10% On FY 2026 Results and Acquisition Announcement - arichlife.com.au"
     ],
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   }
