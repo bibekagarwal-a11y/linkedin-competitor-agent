@@ -1167,6 +1167,40 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "0f5151eb4cc3897cc29a",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Enery brings Central and Eastern Europe's largest battery storage system to market",
+    "canonical_url": "https://www.volue.com/news/enery-brings-central-and-eastern-europes-largest-battery-storage-system-to-market",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 2,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Enery brings Central and Eastern Europe's largest battery storage system to market",
+        "url": "https://www.volue.com/news/enery-brings-central-and-eastern-europes-largest-battery-storage-system-to-market",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Enery brings one of Central and Eastern Europe's largest battery storage systems to market",
+        "url": "https://www.volue.com/news/enery-brings-central-and-eastern-europes-largest-battery-storage-system-to-market",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Enery brings Central and Eastern Europe's largest battery storage system to market",
+      "Enery brings one of Central and Eastern Europe's largest battery storage systems to market"
+    ],
+    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
     "event_id": "ea9600abce1f6273326d",
     "company": "Volue",
     "event_type": "general_update",
@@ -1293,32 +1327,6 @@
     ],
     "summary_basis": [
       "The Battery Is Easy. Optimisation"
-    ],
-    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
-  },
-  {
-    "event_id": "0f5151eb4cc3897cc29a",
-    "company": "Volue",
-    "event_type": "general_update",
-    "headline": "Enery brings Central and Eastern Europe's largest battery storage system to market",
-    "canonical_url": "https://www.volue.com/news/enery-brings-central-and-eastern-europes-largest-battery-storage-system-to-market",
-    "published_at": null,
-    "importance_score": 6,
-    "coverage_count": 1,
-    "sources": [
-      "press:volue.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Enery brings Central and Eastern Europe's largest battery storage system to market",
-        "url": "https://www.volue.com/news/enery-brings-central-and-eastern-europes-largest-battery-storage-system-to-market",
-        "source_type": "press",
-        "source_name": "volue.com",
-        "published_at": null
-      }
-    ],
-    "summary_basis": [
-      "Enery brings Central and Eastern Europe's largest battery storage system to market"
     ],
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
   },
