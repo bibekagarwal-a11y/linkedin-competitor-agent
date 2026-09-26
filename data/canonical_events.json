@@ -597,10 +597,10 @@
     "company": "Volue",
     "event_type": "general_update",
     "headline": "Energy One (ASX:EOL): Volue Takeover Bid at A$17/Share — What Does It Mean for This Energy Software Leader? - kalkine.com.au",
-    "canonical_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRWI4N2JJcmVaclJZdms5Q1BpMkdndXUtZ0wwQWFkeGlWbHU5akRKcmtLWDZWVzI5VmRqSVFxY3luVnowcUUweTBaWTBxc2N6RWMyTVhuRExjSHdQY09FMDVaUzc1S045dXlHRGxSSDdvbW5DcDdMV0RsOEE5elZLd0FYTWlUNF82LUlOQ0hEWmMyNUwwa3hJXy0yNEhzaC1RcmYxMzZVU2lYZUttdUMtUW81akhXR2dETFduTy1ZQ2Q4Vl9SbV81Y1c3eVhpNURfLWdN?oc=5",
-    "published_at": "2026-09-08T12:51:00+00:00",
+    "canonical_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS2kyV0E1TG5VYy1jTnpEdW80QkZBZlJqSWZ6OUtTLWVyNy1OODA2VmNNaDU4R0hGNGFBMzdlemg1QkpDMnIyaHJnMGhyU2pmcFN6M0lQejNCbmozUy1oV2lXQ2tOTE9OWFk3b0xoZjhMbFFGQW5mbVh5NXloV2pXbUlRZGZ3MHBWOGF4YnBkcVpOWHdZRGkxVks3a2NqNFdhMHl4a0lQWklYcDhaUmoxVzRzYWJVTGhZZkxkcUdoWkxuamFveUdWdU9ma2dIUzMwMXQ0WWl3?oc=5",
+    "published_at": "2026-09-08T07:00:00+00:00",
     "importance_score": 10,
-    "coverage_count": 3,
+    "coverage_count": 4,
     "sources": [
       "news:news.google.com"
     ],
@@ -621,6 +621,13 @@
       },
       {
         "title": "Energy One (ASX:EOL): Volue Takeover Bid at A$17/Share — What Does It Mean for This Energy Software Leader? - kalkine.com.au",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS2kyV0E1TG5VYy1jTnpEdW80QkZBZlJqSWZ6OUtTLWVyNy1OODA2VmNNaDU4R0hGNGFBMzdlemg1QkpDMnIyaHJnMGhyU2pmcFN6M0lQejNCbmozUy1oV2lXQ2tOTE9OWFk3b0xoZjhMbFFGQW5mbVh5NXloV2pXbUlRZGZ3MHBWOGF4YnBkcVpOWHdZRGkxVks3a2NqNFdhMHl4a0lQWklYcDhaUmoxVzRzYWJVTGhZZkxkcUdoWkxuamFveUdWdU9ma2dIUzMwMXQ0WWl3?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-09-08T07:00:00+00:00"
+      },
+      {
+        "title": "Energy One (ASX:EOL): Volue Takeover Bid at A$17/Share — What Does It Mean for This Energy Software Leader? - kalkine.com.au",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRWI4N2JJcmVaclJZdms5Q1BpMkdndXUtZ0wwQWFkeGlWbHU5akRKcmtLWDZWVzI5VmRqSVFxY3luVnowcUUweTBaWTBxc2N6RWMyTVhuRExjSHdQY09FMDVaUzc1S045dXlHRGxSSDdvbW5DcDdMV0RsOEE5elZLd0FYTWlUNF82LUlOQ0hEWmMyNUwwa3hJXy0yNEhzaC1RcmYxMzZVU2lYZUttdUMtUW81akhXR2dETFduTy1ZQ2Q4Vl9SbV81Y1c3eVhpNURfLWdN?oc=5",
         "source_type": "news",
         "source_name": "news.google.com",
@@ -630,6 +637,7 @@
     "summary_basis": [
       "Energy One (ASX:EOL) Rejects Revised AUD 17-a-Share Takeover Proposal From Volue - kalkine.com.au",
       "Energy One (ASX:EOL) Rejects Revised AUD 17-a-Share Takeover Proposal From Volue - Kalkine",
+      "Energy One (ASX:EOL): Volue Takeover Bid at A$17/Share — What Does It Mean for This Energy Software Leader? - kalkine.com.au",
       "Energy One (ASX:EOL): Volue Takeover Bid at A$17/Share — What Does It Mean for This Energy Software Leader? - kalkine.com.au"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
