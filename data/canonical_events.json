@@ -925,6 +925,32 @@
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   },
   {
+    "event_id": "9902e287c03f970e8d72",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Make it exist first: how project fable is changing the way we build forecasting models",
+    "canonical_url": "https://www.volue.com/news/make-it-exist-first-how-project-fable-is-shipping-forecasting-models-faster",
+    "published_at": null,
+    "importance_score": 8,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Make it exist first: how project fable is changing the way we build forecasting models",
+        "url": "https://www.volue.com/news/make-it-exist-first-how-project-fable-is-shipping-forecasting-models-faster",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Make it exist first: how project fable is changing the way we build forecasting models"
+    ],
+    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
     "event_id": "4a1f4504e189ef153d65",
     "company": "Volue",
     "event_type": "general_update",
