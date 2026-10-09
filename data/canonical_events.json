@@ -1683,6 +1683,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "9c8c1b6642540533ab38",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Real voices, real change: building a workplace where mental health matters.",
+    "canonical_url": "https://www.volue.com/news/real-voices-real-change-building-a-workplace-where-mental-health-matters",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Real voices, real change: building a workplace where mental health matters.",
+        "url": "https://www.volue.com/news/real-voices-real-change-building-a-workplace-where-mental-health-matters",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Real voices, real change: building a workplace where mental health matters."
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "ba3fa138557e4dd36c45",
     "company": "GMSL",
     "event_type": "funding_mna",
