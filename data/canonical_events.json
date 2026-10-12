@@ -1365,6 +1365,32 @@
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
   },
   {
+    "event_id": "fbbe53c4668a739356b6",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Why Your Energy Data Is Working Against You, and What a Single Source of Truth Changes",
+    "canonical_url": "https://www.volue.com/news/why-your-energy-data-is-working-against-you-and-what-a-single-source-of-truth-cha",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Why Your Energy Data Is Working Against You, and What a Single Source of Truth Changes",
+        "url": "https://www.volue.com/news/why-your-energy-data-is-working-against-you-and-what-a-single-source-of-truth-cha",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Why Your Energy Data Is Working Against You, and What a Single Source of Truth Changes"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "9764f788de9dfc2da17f",
     "company": "Volue",
     "event_type": "general_update",
