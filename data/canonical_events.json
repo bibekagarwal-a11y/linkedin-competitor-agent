@@ -1391,6 +1391,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "f1885077fe69eeb9a2f9",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Expert View: Battery Storage Optimization",
+    "canonical_url": "https://www.volue.com/news/expert-view-battery-storage-optimization",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Expert View: Battery Storage Optimization",
+        "url": "https://www.volue.com/news/expert-view-battery-storage-optimization",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Expert View: Battery Storage Optimization"
+    ],
+    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
     "event_id": "9764f788de9dfc2da17f",
     "company": "Volue",
     "event_type": "general_update",
