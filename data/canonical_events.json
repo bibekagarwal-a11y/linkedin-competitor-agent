@@ -703,6 +703,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "14cd97af2a849e4cb21a",
+    "company": "GMSL",
+    "event_type": "funding_mna",
+    "headline": "Energy One Shareholders Approve Issue of 7,089,780 Shares to Fluxys UK for Gas Management Services Acquisition - Kalkine",
+    "canonical_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWlNmcm96ai1jMWVVNkFIRzlSdzRvdDdZYnNvVjlwTXBHMWJjT2lMQjJWUl9vZVJZZlYxV0NvdklCS0dWQjFpNzRxRExESHBzZTRaNUExZW9EOEdZVnpENG5Rcnd5RThMY3VSbW4yU01QT01zMlN6ZzBFMTBDNGRJTHh6OTYzZkJaNzI3MGh1dEpPQkhMaXMxT0tZa2h2OXNTbzd3OTBzVGpvaGdmVGJmNTJZYmVycVVleFBvTHpCSGtzdzloLW00dk5nX2lOS1drYnJoMGVQb203Yl9ISGNESGNPd1A?oc=5",
+    "published_at": "2026-10-15T02:03:40+00:00",
+    "importance_score": 10,
+    "coverage_count": 1,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Energy One Shareholders Approve Issue of 7,089,780 Shares to Fluxys UK for Gas Management Services Acquisition - Kalkine",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWlNmcm96ai1jMWVVNkFIRzlSdzRvdDdZYnNvVjlwTXBHMWJjT2lMQjJWUl9vZVJZZlYxV0NvdklCS0dWQjFpNzRxRExESHBzZTRaNUExZW9EOEdZVnpENG5Rcnd5RThMY3VSbW4yU01QT01zMlN6ZzBFMTBDNGRJTHh6OTYzZkJaNzI3MGh1dEpPQkhMaXMxT0tZa2h2OXNTbzd3OTBzVGpvaGdmVGJmNTJZYmVycVVleFBvTHpCSGtzdzloLW00dk5nX2lOS1drYnJoMGVQb203Yl9ISGNESGNPd1A?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-10-15T02:03:40+00:00"
+      }
+    ],
+    "summary_basis": [
+      "Energy One Shareholders Approve Issue of 7,089,780 Shares to Fluxys UK for Gas Management Services Acquisition - Kalkine"
+    ],
+    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
     "event_id": "128739a86e96136bf0bd",
     "company": "Volue",
     "event_type": "general_update",
@@ -1415,6 +1441,32 @@
       "Expert View: Battery Storage Optimization"
     ],
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
+    "event_id": "8a76cb4e4401956f0f83",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Expert View: Powering Flexibility",
+    "canonical_url": "https://www.volue.com/news/expert-view-powering-flexibility",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Expert View: Powering Flexibility",
+        "url": "https://www.volue.com/news/expert-view-powering-flexibility",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Expert View: Powering Flexibility"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
     "event_id": "9764f788de9dfc2da17f",
