@@ -1,22 +1,22 @@
 # Weekly Competitor Intelligence
 
-Week ending 2026-10-12
+Week ending 2026-10-19
 
 ## Top signals this week
 
-- **GMSL** — EOL - Energy One (ASX:EOL): Sticky software with improving margins - Simply Wall Street (1 source(s), general_update)
+- **GMSL** — Energy One Shareholders Approve Issue of 7,089,780 Shares to Fluxys UK for Gas Management Services Acquisition - Kalkine (1 source(s), funding_mna)
 
 ## GMSL
 
-### EOL - Energy One (ASX:EOL): Sticky software with improving margins - Simply Wall Street
+### Energy One Shareholders Approve Issue of 7,089,780 Shares to Fluxys UK for Gas Management Services Acquisition - Kalkine
 
-- **Type:** general_update
-- **Date:** 2026-10-06
+- **Type:** funding_mna
+- **Date:** 2026-10-15
 - **Coverage:** 1 source(s)
-- **Why it matters:** This appears notable enough to track and may matter if repeated across multiple weeks or sources.
-- **Primary link:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjcxemdGNEhnZkRVUWR6T0RCX09iT3VVS2l2Uzl5UmdMdUlZZHZIZkRGaWZxVTI3SUs3cjNVc3FkWlZxZ0hpakFjQzRjSDVwTmN2UmNvQkhvenlvZXhseE56cFVUaG5ReTI1V3I3LVdraktFTXlxVkV5aDZfN2JSbGZBMkctNkVpV1g5bE9aREdCeHZIQ3JJVFNrTXA3MjdIUVdKWGkzZUlRc3lpRzNZMlNQeVpUcHZTdW4wZ1JrUnJHd1R5Q1AxT3AwcVY5QUZ6ei1KWnE0ZGp3aFliaUF5bHgxZU4?oc=5
+- **Why it matters:** This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning.
+- **Primary link:** https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWlNmcm96ai1jMWVVNkFIRzlSdzRvdDdZYnNvVjlwTXBHMWJjT2lMQjJWUl9vZVJZZlYxV0NvdklCS0dWQjFpNzRxRExESHBzZTRaNUExZW9EOEdZVnpENG5Rcnd5RThMY3VSbW4yU01QT01zMlN6ZzBFMTBDNGRJTHh6OTYzZkJaNzI3MGh1dEpPQkhMaXMxT0tZa2h2OXNTbzd3OTBzVGpvaGdmVGJmNTJZYmVycVVleFBvTHpCSGtzdzloLW00dk5nX2lOS1drYnJoMGVQb203Yl9ISGNESGNPd1A?oc=5
 - **Supporting coverage:**
-  - EOL - Energy One (ASX:EOL): Sticky software with improving margins - Simply Wall Street (news, news.google.com)
+  - Energy One Shareholders Approve Issue of 7,089,780 Shares to Fluxys UK for Gas Management Services Acquisition - Kalkine (news, news.google.com)
 
 ## Method notes
 
