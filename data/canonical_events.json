@@ -1469,6 +1469,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "8ac7b0c396aad756080e",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Data Centres and the Nordic Grid: Who Gets Power Next?",
+    "canonical_url": "https://www.volue.com/news/energy-data-center",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Data Centres and the Nordic Grid: Who Gets Power Next?",
+        "url": "https://www.volue.com/news/energy-data-center",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Data Centres and the Nordic Grid: Who Gets Power Next?"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "9764f788de9dfc2da17f",
     "company": "Volue",
     "event_type": "general_update",
@@ -1811,6 +1837,32 @@
       "Real voices, real change: building a workplace where mental health matters."
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "6109038a1cb7efe5b9f1",
+    "company": "Volue",
+    "event_type": "thought_leadership",
+    "headline": "Adjusting hydro reservoir targets and generation outlook in CWE",
+    "canonical_url": "https://www.volue.com/news/adjusting-hydro-reservoir-targets-and-generation-outlook-in-cwe",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Adjusting hydro reservoir targets and generation outlook in CWE",
+        "url": "https://www.volue.com/news/adjusting-hydro-reservoir-targets-and-generation-outlook-in-cwe",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Adjusting hydro reservoir targets and generation outlook in CWE"
+    ],
+    "why_it_matters": "Repeated messaging here can reveal positioning, category creation efforts, or demand-gen themes."
   },
   {
     "event_id": "ba3fa138557e4dd36c45",
