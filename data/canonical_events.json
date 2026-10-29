@@ -567,6 +567,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "c2bc8d47f6dbea1bbddb",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Women of Volue: introducing Anamaria Toebe",
+    "canonical_url": "https://www.volue.com/news/women-of-volue-introducing-anamaria-toebe",
+    "published_at": null,
+    "importance_score": 11,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Women of Volue: introducing Anamaria Toebe",
+        "url": "https://www.volue.com/news/women-of-volue-introducing-anamaria-toebe",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Women of Volue: introducing Anamaria Toebe"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "1d5dfbee0909054de5b4",
     "company": "Volue",
     "event_type": "funding_mna",
