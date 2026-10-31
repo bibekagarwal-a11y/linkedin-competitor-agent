@@ -703,6 +703,40 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "f84b5ba3ed30aa7dba7b",
+    "company": "GMSL",
+    "event_type": "funding_mna",
+    "headline": "Energy One Completes Gas Management Services Acquisition, Fluxys Becomes Largest Shareholder - www.marketscreener.com",
+    "canonical_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLUJPdU9ya0wyaVMwUk5fUnV1Si1LbE1uMDYwbmxRQjg0bnljc3ZpRmhpV2VvYUZZX0dNdWlmZVZNNWpSQS01UGlwSzgtYTRvVm5EUWpod21mRG9RUG16WWpfMmpUMEtzelNSeWRSQW9RWjB4WDBWZ0J6dHNDUjNMUWc5UllnUTUxbUROd1h5SXRpRl9ZOGJHZFE4X3lCQWlxLTRTNGlVZ1gzVmVHeFY4RG1LRXFrcjF4WFltemRRaTlCVHZpS1IyTFp1ZHEwa1hla3RuY2JiRkJfRndQ?oc=5",
+    "published_at": "2026-10-30T02:18:25+00:00",
+    "importance_score": 10,
+    "coverage_count": 2,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Energy One Completes Gas Management Services Acquisition, Fluxys Becomes Largest Shareholder - www.marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLUJPdU9ya0wyaVMwUk5fUnV1Si1LbE1uMDYwbmxRQjg0bnljc3ZpRmhpV2VvYUZZX0dNdWlmZVZNNWpSQS01UGlwSzgtYTRvVm5EUWpod21mRG9RUG16WWpfMmpUMEtzelNSeWRSQW9RWjB4WDBWZ0J6dHNDUjNMUWc5UllnUTUxbUROd1h5SXRpRl9ZOGJHZFE4X3lCQWlxLTRTNGlVZ1gzVmVHeFY4RG1LRXFrcjF4WFltemRRaTlCVHZpS1IyTFp1ZHEwa1hla3RuY2JiRkJfRndQ?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-10-30T02:18:25+00:00"
+      },
+      {
+        "title": "Energy One Completes Gas Management Services Acquisition, Fluxys Becomes Largest Shareholder - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHJTN1VJUjNlMXdFcUpTc1FIX0ZNa01TWnZtTENqWjJoOWNBU082WjhhYndaNnVKenJYZGpWb3NfcGlxSEZJRmtyQ295aGZYZUpEckhJTHBtbVFuVmZnTERMOV9HZGo3WUhyS25kTU9SRmtodmNJS3ZRMnV6dkJQYmNsNmt5VjZUVm1QUjhLaHRKMTBCZGFKOWVnTlVhVEZNY2czM2phMlVhNEhfQVMtazdMRlNPV1o2QVZrRXFlank?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-10-30T07:38:03+00:00"
+      }
+    ],
+    "summary_basis": [
+      "Energy One Completes Gas Management Services Acquisition, Fluxys Becomes Largest Shareholder - www.marketscreener.com",
+      "Energy One Completes Gas Management Services Acquisition, Fluxys Becomes Largest Shareholder - Moomoo"
+    ],
+    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
+  },
+  {
     "event_id": "ce18f62d851c86bb3d91",
     "company": "Volue",
     "event_type": "general_update",
@@ -777,32 +811,6 @@
     ],
     "summary_basis": [
       "Energy One completes GMSL acquisition and welcomes Fluxys as largest shareholder - TipRanks"
-    ],
-    "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
-  },
-  {
-    "event_id": "f84b5ba3ed30aa7dba7b",
-    "company": "GMSL",
-    "event_type": "funding_mna",
-    "headline": "Energy One Completes Gas Management Services Acquisition, Fluxys Becomes Largest Shareholder - www.marketscreener.com",
-    "canonical_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLUJPdU9ya0wyaVMwUk5fUnV1Si1LbE1uMDYwbmxRQjg0bnljc3ZpRmhpV2VvYUZZX0dNdWlmZVZNNWpSQS01UGlwSzgtYTRvVm5EUWpod21mRG9RUG16WWpfMmpUMEtzelNSeWRSQW9RWjB4WDBWZ0J6dHNDUjNMUWc5UllnUTUxbUROd1h5SXRpRl9ZOGJHZFE4X3lCQWlxLTRTNGlVZ1gzVmVHeFY4RG1LRXFrcjF4WFltemRRaTlCVHZpS1IyTFp1ZHEwa1hla3RuY2JiRkJfRndQ?oc=5",
-    "published_at": "2026-10-30T02:18:25+00:00",
-    "importance_score": 10,
-    "coverage_count": 1,
-    "sources": [
-      "news:news.google.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Energy One Completes Gas Management Services Acquisition, Fluxys Becomes Largest Shareholder - www.marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLUJPdU9ya0wyaVMwUk5fUnV1Si1LbE1uMDYwbmxRQjg0bnljc3ZpRmhpV2VvYUZZX0dNdWlmZVZNNWpSQS01UGlwSzgtYTRvVm5EUWpod21mRG9RUG16WWpfMmpUMEtzelNSeWRSQW9RWjB4WDBWZ0J6dHNDUjNMUWc5UllnUTUxbUROd1h5SXRpRl9ZOGJHZFE4X3lCQWlxLTRTNGlVZ1gzVmVHeFY4RG1LRXFrcjF4WFltemRRaTlCVHZpS1IyTFp1ZHEwa1hla3RuY2JiRkJfRndQ?oc=5",
-        "source_type": "news",
-        "source_name": "news.google.com",
-        "published_at": "2026-10-30T02:18:25+00:00"
-      }
-    ],
-    "summary_basis": [
-      "Energy One Completes Gas Management Services Acquisition, Fluxys Becomes Largest Shareholder - www.marketscreener.com"
     ],
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   },
