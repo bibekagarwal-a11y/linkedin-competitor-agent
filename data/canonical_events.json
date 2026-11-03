@@ -1977,6 +1977,32 @@
     "why_it_matters": "Repeated messaging here can reveal positioning, category creation efforts, or demand-gen themes."
   },
   {
+    "event_id": "9128c3e90a169a2fbb55",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "One Flow, Not Two Vendors",
+    "canonical_url": "https://www.volue.com/news/one-flow-not-two-vendors",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "One Flow, Not Two Vendors",
+        "url": "https://www.volue.com/news/one-flow-not-two-vendors",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "One Flow, Not Two Vendors"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "ba3fa138557e4dd36c45",
     "company": "GMSL",
     "event_type": "funding_mna",
