@@ -2003,6 +2003,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "caace3b024669676b247",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "The Hidden Risk in Your Price Forward Curves",
+    "canonical_url": "https://www.volue.com/news/the-hidden-risk-in-your-price-forward-curves",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "The Hidden Risk in Your Price Forward Curves",
+        "url": "https://www.volue.com/news/the-hidden-risk-in-your-price-forward-curves",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "The Hidden Risk in Your Price Forward Curves"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "ba3fa138557e4dd36c45",
     "company": "GMSL",
     "event_type": "funding_mna",
