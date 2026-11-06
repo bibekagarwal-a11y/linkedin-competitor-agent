@@ -86,6 +86,32 @@
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   },
   {
+    "event_id": "1a5019005d57795f84bc",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Volue connects Intraday AlgoTrader (VATP) and PowerBot to ADEX",
+    "canonical_url": "https://www.volue.com/news/volue-connects-intraday-algotrader-vatp-and-powerbot-to-adex",
+    "published_at": null,
+    "importance_score": 15,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Volue connects Intraday AlgoTrader (VATP) and PowerBot to ADEX",
+        "url": "https://www.volue.com/news/volue-connects-intraday-algotrader-vatp-and-powerbot-to-adex",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Volue connects Intraday AlgoTrader (VATP) and PowerBot to ADEX"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "45f764a80686a3eee000",
     "company": "Volue",
     "event_type": "general_update",
