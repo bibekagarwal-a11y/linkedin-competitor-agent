@@ -1659,6 +1659,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "a9d9c6632ba6318c2e34",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "What a Trading Operations Desk Actually Needs on Day One",
+    "canonical_url": "https://www.volue.com/news/what-a-trading-operations-desk-actually-needs-on-day-one",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "What a Trading Operations Desk Actually Needs on Day One",
+        "url": "https://www.volue.com/news/what-a-trading-operations-desk-actually-needs-on-day-one",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "What a Trading Operations Desk Actually Needs on Day One"
+    ],
+    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
     "event_id": "9764f788de9dfc2da17f",
     "company": "Volue",
     "event_type": "general_update",
@@ -1681,6 +1707,48 @@
     ],
     "summary_basis": [
       "TA Associates invests in PE-backed Volue - pehub.com"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "d8b5e95a9a1b1fa291a8",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Why short-term production planning is harder than it used to be — and what to do about it",
+    "canonical_url": "https://www.volue.com/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 3,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Why short-term production planning is harder than it used to be",
+        "url": "https://www.volue.com/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Why short-term production planning is harder than it used to be — and what to do about it",
+        "url": "https://www.volue.com/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      },
+      {
+        "title": "Why short-term production planning is harder than it used to be — and what to do about it",
+        "url": "https://www.volue.com/en/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Why short-term production planning is harder than it used to be — and what to do about it",
+      "Why short-term production planning is harder than it used to be — and what to do about it",
+      "Why short-term production planning is harder than it used to be"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
@@ -1749,40 +1817,6 @@
     "summary_basis": [
       "Your best planners should not be spending their day clicking refresh",
       "Your best planners should not be spending their day clicking refresh"
-    ],
-    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
-  },
-  {
-    "event_id": "d8b5e95a9a1b1fa291a8",
-    "company": "Volue",
-    "event_type": "general_update",
-    "headline": "Why short-term production planning is harder than it used to be — and what to do about it",
-    "canonical_url": "https://www.volue.com/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
-    "published_at": null,
-    "importance_score": 5,
-    "coverage_count": 2,
-    "sources": [
-      "press:volue.com"
-    ],
-    "supporting_items": [
-      {
-        "title": "Why short-term production planning is harder than it used to be — and what to do about it",
-        "url": "https://www.volue.com/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
-        "source_type": "press",
-        "source_name": "volue.com",
-        "published_at": null
-      },
-      {
-        "title": "Why short-term production planning is harder than it used to be — and what to do about it",
-        "url": "https://www.volue.com/en/news/why-short-term-production-planning-is-harder-than-it-used-to-be",
-        "source_type": "press",
-        "source_name": "volue.com",
-        "published_at": null
-      }
-    ],
-    "summary_basis": [
-      "Why short-term production planning is harder than it used to be — and what to do about it",
-      "Why short-term production planning is harder than it used to be — and what to do about it"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
@@ -2077,6 +2111,32 @@
     ],
     "summary_basis": [
       "The Hidden Risk in Your Price Forward Curves"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "fb4ed77a16f5749d9ae4",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "How many versions of the same meter reading do you have?",
+    "canonical_url": "https://www.volue.com/news/how-many-versions-of-the-same-meter-reading-do-you-have",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "How many versions of the same meter reading do you have?",
+        "url": "https://www.volue.com/news/how-many-versions-of-the-same-meter-reading-do-you-have",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "How many versions of the same meter reading do you have?"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
