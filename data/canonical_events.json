@@ -2141,6 +2141,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "2ad6cb08be60dfdfcf80",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Can you reconstruct the price curve your algorithm traded on last Tuesday?",
+    "canonical_url": "https://www.volue.com/news/can-you-reconstruct-the-price-curve-your-algorithm-traded-on-last-tuesday",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Can you reconstruct the price curve your algorithm traded on last Tuesday?",
+        "url": "https://www.volue.com/news/can-you-reconstruct-the-price-curve-your-algorithm-traded-on-last-tuesday",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Can you reconstruct the price curve your algorithm traded on last Tuesday?"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "ba3fa138557e4dd36c45",
     "company": "GMSL",
     "event_type": "funding_mna",
