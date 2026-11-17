@@ -395,6 +395,32 @@
     "why_it_matters": "Leadership changes often precede strategy shifts, reorganizations, or a new commercial emphasis."
   },
   {
+    "event_id": "ef58baa2c5b45c3aeb29",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Japan’s power market just got faster. Volue’s new Data & Forecasts app keeps traders ahead in English and Japanese",
+    "canonical_url": "https://www.volue.com/news/japans-power-market-just-got-faster-volues-new-data-and-forecasts-app-keeps-trade",
+    "published_at": null,
+    "importance_score": 12,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Japan’s power market just got faster. Volue’s new Data & Forecasts app keeps traders ahead in English and Japanese",
+        "url": "https://www.volue.com/news/japans-power-market-just-got-faster-volues-new-data-and-forecasts-app-keeps-trade",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Japan’s power market just got faster. Volue’s new Data & Forecasts app keeps traders ahead in English and Japanese"
+    ],
+    "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
+  },
+  {
     "event_id": "896f89d7ef36a0082af5",
     "company": "Volue",
     "event_type": "general_update",
