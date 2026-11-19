@@ -1711,6 +1711,58 @@
     "why_it_matters": "This appears directly relevant to the product and market themes you are tracking."
   },
   {
+    "event_id": "1f2a413994133bff9922",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Gas Nomination Without the Weight of a Full ETRM",
+    "canonical_url": "https://www.volue.com/news/gas-nomination-without-the-weight-of-a-full-etrm",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Gas Nomination Without the Weight of a Full ETRM",
+        "url": "https://www.volue.com/news/gas-nomination-without-the-weight-of-a-full-etrm",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Gas Nomination Without the Weight of a Full ETRM"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "3563673c475eab091d42",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Flexible Energy Assets Demand Flexible Data",
+    "canonical_url": "https://www.volue.com/news/flexible-energy-assets-demand-flexible-data",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Flexible Energy Assets Demand Flexible Data",
+        "url": "https://www.volue.com/news/flexible-energy-assets-demand-flexible-data",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Flexible Energy Assets Demand Flexible Data"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "9764f788de9dfc2da17f",
     "company": "Volue",
     "event_type": "general_update",
