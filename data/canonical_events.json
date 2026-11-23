@@ -1815,6 +1815,32 @@
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
   {
+    "event_id": "f58ea7894a3ffb951c20",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "FSN Capital agrees deal to buy Norway’s Volue Infrastructure - PEI Private Equity",
+    "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGc3Nm1BUk4yUGotUGZlVDBkb0cwSHFienhyM19fdlhhUzRjYTU4OE5wZ1pzREZNQXc3XzVSaWlRc3c3ZUJoSmZIUDVfck5nZEs3ZWRQM2dHWDZfRWpKVjhCTi1zdDFsZEJUb1VZY2E0ZElEQ1NFTnBqWTBVQjFhUS10dXZvWWtKaGlGMUFkTV81dDFUSy1ycWktdWcxdGNKekkxMlFn?oc=5",
+    "published_at": "2026-11-22T16:08:16+00:00",
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "news:news.google.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "FSN Capital agrees deal to buy Norway’s Volue Infrastructure - PEI Private Equity",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGc3Nm1BUk4yUGotUGZlVDBkb0cwSHFienhyM19fdlhhUzRjYTU4OE5wZ1pzREZNQXc3XzVSaWlRc3c3ZUJoSmZIUDVfck5nZEs3ZWRQM2dHWDZfRWpKVjhCTi1zdDFsZEJUb1VZY2E0ZElEQ1NFTnBqWTBVQjFhUS10dXZvWWtKaGlGMUFkTV81dDFUSy1ycWktdWcxdGNKekkxMlFn?oc=5",
+        "source_type": "news",
+        "source_name": "news.google.com",
+        "published_at": "2026-11-22T16:08:16+00:00"
+      }
+    ],
+    "summary_basis": [
+      "FSN Capital agrees deal to buy Norway’s Volue Infrastructure - PEI Private Equity"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
     "event_id": "d8b5e95a9a1b1fa291a8",
     "company": "Volue",
     "event_type": "general_update",
@@ -2267,6 +2293,32 @@
     ],
     "summary_basis": [
       "Can you reconstruct the price curve your algorithm traded on last Tuesday?"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "16d18c6bd10946d6a416",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "Why explaining a price move takes longer than making the trade",
+    "canonical_url": "https://www.volue.com/news/why-explaining-a-price-move-takes-longer-than-making-the-trade",
+    "published_at": null,
+    "importance_score": 5,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Why explaining a price move takes longer than making the trade",
+        "url": "https://www.volue.com/news/why-explaining-a-price-move-takes-longer-than-making-the-trade",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Why explaining a price move takes longer than making the trade"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
