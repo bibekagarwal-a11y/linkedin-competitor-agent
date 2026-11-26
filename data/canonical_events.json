@@ -26,6 +26,32 @@
     "why_it_matters": "This can signal fresh capital, ownership change, or a strategic push that may affect product investment and market positioning."
   },
   {
+    "event_id": "4a5228330aef202c094c",
+    "company": "Volue",
+    "event_type": "product_launch",
+    "headline": "Volue launches Volue Benchmarking, enabling trusted peer benchmarks for forecasting, trading and operations.",
+    "canonical_url": "https://www.volue.com/news/volue-launches-volue-benchmarking",
+    "published_at": null,
+    "importance_score": 16,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "Volue launches Volue Benchmarking, enabling trusted peer benchmarks for forecasting, trading and operations.",
+        "url": "https://www.volue.com/news/volue-launches-volue-benchmarking",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "Volue launches Volue Benchmarking, enabling trusted peer benchmarks for forecasting, trading and operations."
+    ],
+    "why_it_matters": "This suggests roadmap movement and may indicate where the competitor is trying to differentiate."
+  },
+  {
     "event_id": "6b64bbcabdb6603042cc",
     "company": "Volue",
     "event_type": "funding_mna",
@@ -1811,6 +1837,32 @@
     ],
     "summary_basis": [
       "Flexible Energy Assets Demand Flexible Data"
+    ],
+    "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
+  },
+  {
+    "event_id": "c73f85e488cc194c952b",
+    "company": "Volue",
+    "event_type": "general_update",
+    "headline": "How BESS bids shape German day-ahead prices",
+    "canonical_url": "https://www.volue.com/news/bess-loop-orders-german-day-ahead",
+    "published_at": null,
+    "importance_score": 6,
+    "coverage_count": 1,
+    "sources": [
+      "press:volue.com"
+    ],
+    "supporting_items": [
+      {
+        "title": "How BESS bids shape German day-ahead prices",
+        "url": "https://www.volue.com/news/bess-loop-orders-german-day-ahead",
+        "source_type": "press",
+        "source_name": "volue.com",
+        "published_at": null
+      }
+    ],
+    "summary_basis": [
+      "How BESS bids shape German day-ahead prices"
     ],
     "why_it_matters": "This appears notable enough to track and may matter if repeated across multiple weeks or sources."
   },
